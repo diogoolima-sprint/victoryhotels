@@ -1,0 +1,37 @@
+{
+  "_nota": "Metas mensais Budget 2026 rev01. Nunca inferir de dashboards anteriores — sempre ler este arquivo.",
+  "VB": {
+    "quartos": 152,
+    "metas": {
+      "01": {"receita": 752370, "adr": 310, "occ": 51.5},
+      "02": {"receita": 619640, "adr": 280, "occ": 52},
+      "03": {"receita": 699160, "adr": 280, "occ": 53},
+      "04": {"receita": 727720, "adr": 280, "occ": 57},
+      "05": {"receita": 738650, "adr": 275, "occ": 57},
+      "06": {"receita": 647756, "adr": 268, "occ": 53},
+      "07": {"receita": 1000935, "adr": 295, "occ": 72},
+      "08": {"receita": 890274, "adr": 282, "occ": 67},
+      "09": {"receita": 722085, "adr": 273, "occ": 58},
+      "10": {"receita": 725725, "adr": 275, "occ": 56},
+      "11": {"receita": 702350, "adr": 275, "occ": 56},
+      "12": {"receita": 868320, "adr": 335, "occ": 55}
+    }
+  },
+  "VS": {
+    "quartos": 122,
+    "metas": {
+      "01": {"receita": 561600, "adr": 270, "occ": 55},
+      "02": {"receita": 488540, "adr": 260, "occ": 55},
+      "03": {"receita": 531090, "adr": 270, "occ": 52},
+      "04": {"receita": 553055, "adr": 265, "occ": 57},
+      "05": {"receita": 545468, "adr": 253, "occ": 57},
+      "06": {"receita": 485265, "adr": 255, "occ": 52},
+      "07": {"receita": 619437, "adr": 273, "occ": 60},
+      "08": {"receita": 668976, "adr": 264, "occ": 67},
+      "09": {"receita": 559980, "adr": 255, "occ": 60},
+      "10": {"receita": 511020, "adr": 255, "occ": 53},
+      "11": {"receita": 573156, "adr": 261, "occ": 60},
+      "12": {"receita": 698544, "adr": 324, "occ": 57}
+    }
+  }
+}
