@@ -1,0 +1,3666 @@
+{
+  "dias": [
+    {
+      "data": "2025-01-01",
+      "dow": "Qua",
+      "occ_pct": 31.15,
+      "ocupadas": 38,
+      "rec_efetivo": 9730.8,
+      "rec_previsto": 0.0,
+      "rec_total": 9730.8,
+      "adr": 256.07
+    },
+    {
+      "data": "2025-01-02",
+      "dow": "Qui",
+      "occ_pct": 37.7,
+      "ocupadas": 46,
+      "rec_efetivo": 11906.72,
+      "rec_previsto": 0.0,
+      "rec_total": 11906.72,
+      "adr": 258.84
+    },
+    {
+      "data": "2025-01-03",
+      "dow": "Sex",
+      "occ_pct": 41.8,
+      "ocupadas": 51,
+      "rec_efetivo": 14069.82,
+      "rec_previsto": 0.0,
+      "rec_total": 14069.82,
+      "adr": 275.88
+    },
+    {
+      "data": "2025-01-04",
+      "dow": "Sab",
+      "occ_pct": 39.34,
+      "ocupadas": 48,
+      "rec_efetivo": 12969.98,
+      "rec_previsto": 0.0,
+      "rec_total": 12969.98,
+      "adr": 270.21
+    },
+    {
+      "data": "2025-01-05",
+      "dow": "Dom",
+      "occ_pct": 28.69,
+      "ocupadas": 35,
+      "rec_efetivo": 9269.44,
+      "rec_previsto": 0.0,
+      "rec_total": 9269.44,
+      "adr": 264.84
+    },
+    {
+      "data": "2025-01-06",
+      "dow": "Seg",
+      "occ_pct": 43.44,
+      "ocupadas": 53,
+      "rec_efetivo": 11185.83,
+      "rec_previsto": 0.0,
+      "rec_total": 11185.83,
+      "adr": 211.05
+    },
+    {
+      "data": "2025-01-07",
+      "dow": "Ter",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 16149.45,
+      "rec_previsto": 0.0,
+      "rec_total": 16149.45,
+      "adr": 218.24
+    },
+    {
+      "data": "2025-01-08",
+      "dow": "Qua",
+      "occ_pct": 63.11,
+      "ocupadas": 77,
+      "rec_efetivo": 16427.98,
+      "rec_previsto": 0.0,
+      "rec_total": 16427.98,
+      "adr": 213.35
+    },
+    {
+      "data": "2025-01-09",
+      "dow": "Qui",
+      "occ_pct": 56.56,
+      "ocupadas": 69,
+      "rec_efetivo": 14732.46,
+      "rec_previsto": 0.0,
+      "rec_total": 14732.46,
+      "adr": 213.51
+    },
+    {
+      "data": "2025-01-10",
+      "dow": "Sex",
+      "occ_pct": 59.02,
+      "ocupadas": 72,
+      "rec_efetivo": 19463.75,
+      "rec_previsto": 0.0,
+      "rec_total": 19463.75,
+      "adr": 270.33
+    },
+    {
+      "data": "2025-01-11",
+      "dow": "Sab",
+      "occ_pct": 76.23,
+      "ocupadas": 93,
+      "rec_efetivo": 24403.61,
+      "rec_previsto": 0.0,
+      "rec_total": 24403.61,
+      "adr": 262.4
+    },
+    {
+      "data": "2025-01-12",
+      "dow": "Dom",
+      "occ_pct": 23.77,
+      "ocupadas": 29,
+      "rec_efetivo": 7209.06,
+      "rec_previsto": 0.0,
+      "rec_total": 7209.06,
+      "adr": 248.59
+    },
+    {
+      "data": "2025-01-13",
+      "dow": "Seg",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 10570.25,
+      "rec_previsto": 0.0,
+      "rec_total": 10570.25,
+      "adr": 211.41
+    },
+    {
+      "data": "2025-01-14",
+      "dow": "Ter",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 13346.56,
+      "rec_previsto": 0.0,
+      "rec_total": 13346.56,
+      "adr": 208.54
+    },
+    {
+      "data": "2025-01-15",
+      "dow": "Qua",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 18712.83,
+      "rec_previsto": 0.0,
+      "rec_total": 18712.83,
+      "adr": 215.09
+    },
+    {
+      "data": "2025-01-16",
+      "dow": "Qui",
+      "occ_pct": 68.03,
+      "ocupadas": 83,
+      "rec_efetivo": 18677.73,
+      "rec_previsto": 0.0,
+      "rec_total": 18677.73,
+      "adr": 225.03
+    },
+    {
+      "data": "2025-01-17",
+      "dow": "Sex",
+      "occ_pct": 70.49,
+      "ocupadas": 86,
+      "rec_efetivo": 24803.75,
+      "rec_previsto": 0.0,
+      "rec_total": 24803.75,
+      "adr": 288.42
+    },
+    {
+      "data": "2025-01-18",
+      "dow": "Sab",
+      "occ_pct": 88.52,
+      "ocupadas": 108,
+      "rec_efetivo": 30757.49,
+      "rec_previsto": 0.0,
+      "rec_total": 30757.49,
+      "adr": 284.79
+    },
+    {
+      "data": "2025-01-19",
+      "dow": "Dom",
+      "occ_pct": 30.33,
+      "ocupadas": 37,
+      "rec_efetivo": 10067.64,
+      "rec_previsto": 0.0,
+      "rec_total": 10067.64,
+      "adr": 272.1
+    },
+    {
+      "data": "2025-01-20",
+      "dow": "Seg",
+      "occ_pct": 50.0,
+      "ocupadas": 61,
+      "rec_efetivo": 13503.85,
+      "rec_previsto": 0.0,
+      "rec_total": 13503.85,
+      "adr": 221.37
+    },
+    {
+      "data": "2025-01-21",
+      "dow": "Ter",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 17246.35,
+      "rec_previsto": 0.0,
+      "rec_total": 17246.35,
+      "adr": 205.31
+    },
+    {
+      "data": "2025-01-22",
+      "dow": "Qua",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 17083.37,
+      "rec_previsto": 0.0,
+      "rec_total": 17083.37,
+      "adr": 203.37
+    },
+    {
+      "data": "2025-01-23",
+      "dow": "Qui",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 14205.26,
+      "rec_previsto": 0.0,
+      "rec_total": 14205.26,
+      "adr": 202.93
+    },
+    {
+      "data": "2025-01-24",
+      "dow": "Sex",
+      "occ_pct": 42.62,
+      "ocupadas": 52,
+      "rec_efetivo": 12054.45,
+      "rec_previsto": 0.0,
+      "rec_total": 12054.45,
+      "adr": 231.82
+    },
+    {
+      "data": "2025-01-25",
+      "dow": "Sab",
+      "occ_pct": 90.16,
+      "ocupadas": 110,
+      "rec_efetivo": 29126.49,
+      "rec_previsto": 0.0,
+      "rec_total": 29126.49,
+      "adr": 264.79
+    },
+    {
+      "data": "2025-01-26",
+      "dow": "Dom",
+      "occ_pct": 19.67,
+      "ocupadas": 24,
+      "rec_efetivo": 5207.62,
+      "rec_previsto": 0.0,
+      "rec_total": 5207.62,
+      "adr": 216.98
+    },
+    {
+      "data": "2025-01-27",
+      "dow": "Seg",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 12010.98,
+      "rec_previsto": 0.0,
+      "rec_total": 12010.98,
+      "adr": 210.72
+    },
+    {
+      "data": "2025-01-28",
+      "dow": "Ter",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 15216.93,
+      "rec_previsto": 0.0,
+      "rec_total": 15216.93,
+      "adr": 202.89
+    },
+    {
+      "data": "2025-01-29",
+      "dow": "Qua",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 14659.75,
+      "rec_previsto": 0.0,
+      "rec_total": 14659.75,
+      "adr": 195.46
+    },
+    {
+      "data": "2025-01-30",
+      "dow": "Qui",
+      "occ_pct": 68.03,
+      "ocupadas": 83,
+      "rec_efetivo": 18616.07,
+      "rec_previsto": 0.0,
+      "rec_total": 18616.07,
+      "adr": 224.29
+    },
+    {
+      "data": "2025-01-31",
+      "dow": "Sex",
+      "occ_pct": 48.36,
+      "ocupadas": 59,
+      "rec_efetivo": 17402.17,
+      "rec_previsto": 0.0,
+      "rec_total": 17402.17,
+      "adr": 294.95
+    },
+    {
+      "data": "2025-02-01",
+      "dow": "Sab",
+      "occ_pct": 72.13,
+      "ocupadas": 88,
+      "rec_efetivo": 24469.82,
+      "rec_previsto": 0.0,
+      "rec_total": 24469.82,
+      "adr": 278.07
+    },
+    {
+      "data": "2025-02-02",
+      "dow": "Dom",
+      "occ_pct": 26.23,
+      "ocupadas": 32,
+      "rec_efetivo": 7891.37,
+      "rec_previsto": 0.0,
+      "rec_total": 7891.37,
+      "adr": 246.61
+    },
+    {
+      "data": "2025-02-03",
+      "dow": "Seg",
+      "occ_pct": 38.52,
+      "ocupadas": 47,
+      "rec_efetivo": 10063.62,
+      "rec_previsto": 0.0,
+      "rec_total": 10063.62,
+      "adr": 214.12
+    },
+    {
+      "data": "2025-02-04",
+      "dow": "Ter",
+      "occ_pct": 53.28,
+      "ocupadas": 65,
+      "rec_efetivo": 14010.48,
+      "rec_previsto": 0.0,
+      "rec_total": 14010.48,
+      "adr": 215.55
+    },
+    {
+      "data": "2025-02-05",
+      "dow": "Qua",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 20224.91,
+      "rec_previsto": 0.0,
+      "rec_total": 20224.91,
+      "adr": 224.72
+    },
+    {
+      "data": "2025-02-06",
+      "dow": "Qui",
+      "occ_pct": 85.25,
+      "ocupadas": 104,
+      "rec_efetivo": 22766.56,
+      "rec_previsto": 0.0,
+      "rec_total": 22766.56,
+      "adr": 218.91
+    },
+    {
+      "data": "2025-02-07",
+      "dow": "Sex",
+      "occ_pct": 26.23,
+      "ocupadas": 32,
+      "rec_efetivo": 8410.02,
+      "rec_previsto": 0.0,
+      "rec_total": 8410.02,
+      "adr": 262.81
+    },
+    {
+      "data": "2025-02-08",
+      "dow": "Sab",
+      "occ_pct": 35.25,
+      "ocupadas": 43,
+      "rec_efetivo": 11673.53,
+      "rec_previsto": 0.0,
+      "rec_total": 11673.53,
+      "adr": 271.48
+    },
+    {
+      "data": "2025-02-09",
+      "dow": "Dom",
+      "occ_pct": 15.57,
+      "ocupadas": 19,
+      "rec_efetivo": 4140.6,
+      "rec_previsto": 0.0,
+      "rec_total": 4140.6,
+      "adr": 217.93
+    },
+    {
+      "data": "2025-02-10",
+      "dow": "Seg",
+      "occ_pct": 55.74,
+      "ocupadas": 68,
+      "rec_efetivo": 14091.75,
+      "rec_previsto": 0.0,
+      "rec_total": 14091.75,
+      "adr": 207.23
+    },
+    {
+      "data": "2025-02-11",
+      "dow": "Ter",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 19336.01,
+      "rec_previsto": 0.0,
+      "rec_total": 19336.01,
+      "adr": 222.25
+    },
+    {
+      "data": "2025-02-12",
+      "dow": "Qua",
+      "occ_pct": 77.87,
+      "ocupadas": 95,
+      "rec_efetivo": 20620.59,
+      "rec_previsto": 0.0,
+      "rec_total": 20620.59,
+      "adr": 217.06
+    },
+    {
+      "data": "2025-02-13",
+      "dow": "Qui",
+      "occ_pct": 59.84,
+      "ocupadas": 73,
+      "rec_efetivo": 16679.79,
+      "rec_previsto": 0.0,
+      "rec_total": 16679.79,
+      "adr": 228.49
+    },
+    {
+      "data": "2025-02-14",
+      "dow": "Sex",
+      "occ_pct": 35.25,
+      "ocupadas": 43,
+      "rec_efetivo": 10490.12,
+      "rec_previsto": 0.0,
+      "rec_total": 10490.12,
+      "adr": 243.96
+    },
+    {
+      "data": "2025-02-15",
+      "dow": "Sab",
+      "occ_pct": 67.21,
+      "ocupadas": 82,
+      "rec_efetivo": 21553.93,
+      "rec_previsto": 0.0,
+      "rec_total": 21553.93,
+      "adr": 262.85
+    },
+    {
+      "data": "2025-02-16",
+      "dow": "Dom",
+      "occ_pct": 38.52,
+      "ocupadas": 47,
+      "rec_efetivo": 10554.25,
+      "rec_previsto": 0.0,
+      "rec_total": 10554.25,
+      "adr": 224.56
+    },
+    {
+      "data": "2025-02-17",
+      "dow": "Seg",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 18514.33,
+      "rec_previsto": 0.0,
+      "rec_total": 18514.33,
+      "adr": 205.71
+    },
+    {
+      "data": "2025-02-18",
+      "dow": "Ter",
+      "occ_pct": 72.13,
+      "ocupadas": 88,
+      "rec_efetivo": 17652.51,
+      "rec_previsto": 0.0,
+      "rec_total": 17652.51,
+      "adr": 200.6
+    },
+    {
+      "data": "2025-02-19",
+      "dow": "Qua",
+      "occ_pct": 87.7,
+      "ocupadas": 107,
+      "rec_efetivo": 22687.36,
+      "rec_previsto": 0.0,
+      "rec_total": 22687.36,
+      "adr": 212.03
+    },
+    {
+      "data": "2025-02-20",
+      "dow": "Qui",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 12916.54,
+      "rec_previsto": 0.0,
+      "rec_total": 12916.54,
+      "adr": 215.28
+    },
+    {
+      "data": "2025-02-21",
+      "dow": "Sex",
+      "occ_pct": 32.79,
+      "ocupadas": 40,
+      "rec_efetivo": 9360.36,
+      "rec_previsto": 0.0,
+      "rec_total": 9360.36,
+      "adr": 234.01
+    },
+    {
+      "data": "2025-02-22",
+      "dow": "Sab",
+      "occ_pct": 33.61,
+      "ocupadas": 41,
+      "rec_efetivo": 10750.01,
+      "rec_previsto": 0.0,
+      "rec_total": 10750.01,
+      "adr": 262.2
+    },
+    {
+      "data": "2025-02-23",
+      "dow": "Dom",
+      "occ_pct": 22.95,
+      "ocupadas": 28,
+      "rec_efetivo": 6063.52,
+      "rec_previsto": 0.0,
+      "rec_total": 6063.52,
+      "adr": 216.55
+    },
+    {
+      "data": "2025-02-24",
+      "dow": "Seg",
+      "occ_pct": 42.62,
+      "ocupadas": 52,
+      "rec_efetivo": 9952.81,
+      "rec_previsto": 0.0,
+      "rec_total": 9952.81,
+      "adr": 191.4
+    },
+    {
+      "data": "2025-02-25",
+      "dow": "Ter",
+      "occ_pct": 67.21,
+      "ocupadas": 82,
+      "rec_efetivo": 16332.65,
+      "rec_previsto": 0.0,
+      "rec_total": 16332.65,
+      "adr": 199.18
+    },
+    {
+      "data": "2025-02-26",
+      "dow": "Qua",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 14320.57,
+      "rec_previsto": 0.0,
+      "rec_total": 14320.57,
+      "adr": 204.58
+    },
+    {
+      "data": "2025-02-27",
+      "dow": "Qui",
+      "occ_pct": 36.89,
+      "ocupadas": 45,
+      "rec_efetivo": 8974.82,
+      "rec_previsto": 0.0,
+      "rec_total": 8974.82,
+      "adr": 199.44
+    },
+    {
+      "data": "2025-02-28",
+      "dow": "Sex",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 13878.61,
+      "rec_previsto": 0.0,
+      "rec_total": 13878.61,
+      "adr": 277.57
+    },
+    {
+      "data": "2025-03-01",
+      "dow": "Sab",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 24888.62,
+      "rec_previsto": 0.0,
+      "rec_total": 24888.62,
+      "adr": 286.08
+    },
+    {
+      "data": "2025-03-02",
+      "dow": "Dom",
+      "occ_pct": 77.87,
+      "ocupadas": 95,
+      "rec_efetivo": 27265.62,
+      "rec_previsto": 0.0,
+      "rec_total": 27265.62,
+      "adr": 287.01
+    },
+    {
+      "data": "2025-03-03",
+      "dow": "Seg",
+      "occ_pct": 63.93,
+      "ocupadas": 78,
+      "rec_efetivo": 21963.21,
+      "rec_previsto": 0.0,
+      "rec_total": 21963.21,
+      "adr": 281.58
+    },
+    {
+      "data": "2025-03-04",
+      "dow": "Ter",
+      "occ_pct": 32.79,
+      "ocupadas": 40,
+      "rec_efetivo": 9604.98,
+      "rec_previsto": 0.0,
+      "rec_total": 9604.98,
+      "adr": 240.12
+    },
+    {
+      "data": "2025-03-05",
+      "dow": "Qua",
+      "occ_pct": 27.05,
+      "ocupadas": 33,
+      "rec_efetivo": 7482.83,
+      "rec_previsto": 0.0,
+      "rec_total": 7482.83,
+      "adr": 226.75
+    },
+    {
+      "data": "2025-03-06",
+      "dow": "Qui",
+      "occ_pct": 24.59,
+      "ocupadas": 30,
+      "rec_efetivo": 6507.69,
+      "rec_previsto": 0.0,
+      "rec_total": 6507.69,
+      "adr": 216.92
+    },
+    {
+      "data": "2025-03-07",
+      "dow": "Sex",
+      "occ_pct": 19.67,
+      "ocupadas": 24,
+      "rec_efetivo": 5297.91,
+      "rec_previsto": 0.0,
+      "rec_total": 5297.91,
+      "adr": 220.75
+    },
+    {
+      "data": "2025-03-08",
+      "dow": "Sab",
+      "occ_pct": 22.13,
+      "ocupadas": 27,
+      "rec_efetivo": 6831.08,
+      "rec_previsto": 0.0,
+      "rec_total": 6831.08,
+      "adr": 253.0
+    },
+    {
+      "data": "2025-03-09",
+      "dow": "Dom",
+      "occ_pct": 16.39,
+      "ocupadas": 20,
+      "rec_efetivo": 4359.68,
+      "rec_previsto": 0.0,
+      "rec_total": 4359.68,
+      "adr": 217.98
+    },
+    {
+      "data": "2025-03-10",
+      "dow": "Seg",
+      "occ_pct": 43.44,
+      "ocupadas": 53,
+      "rec_efetivo": 10921.54,
+      "rec_previsto": 0.0,
+      "rec_total": 10921.54,
+      "adr": 206.07
+    },
+    {
+      "data": "2025-03-11",
+      "dow": "Ter",
+      "occ_pct": 59.84,
+      "ocupadas": 73,
+      "rec_efetivo": 15320.09,
+      "rec_previsto": 0.0,
+      "rec_total": 15320.09,
+      "adr": 209.86
+    },
+    {
+      "data": "2025-03-12",
+      "dow": "Qua",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 19081.0,
+      "rec_previsto": 0.0,
+      "rec_total": 19081.0,
+      "adr": 212.01
+    },
+    {
+      "data": "2025-03-13",
+      "dow": "Qui",
+      "occ_pct": 50.0,
+      "ocupadas": 61,
+      "rec_efetivo": 13093.47,
+      "rec_previsto": 0.0,
+      "rec_total": 13093.47,
+      "adr": 214.65
+    },
+    {
+      "data": "2025-03-14",
+      "dow": "Sex",
+      "occ_pct": 27.87,
+      "ocupadas": 34,
+      "rec_efetivo": 9115.61,
+      "rec_previsto": 0.0,
+      "rec_total": 9115.61,
+      "adr": 268.11
+    },
+    {
+      "data": "2025-03-15",
+      "dow": "Sab",
+      "occ_pct": 50.0,
+      "ocupadas": 61,
+      "rec_efetivo": 16539.59,
+      "rec_previsto": 0.0,
+      "rec_total": 16539.59,
+      "adr": 271.14
+    },
+    {
+      "data": "2025-03-16",
+      "dow": "Dom",
+      "occ_pct": 14.75,
+      "ocupadas": 18,
+      "rec_efetivo": 4016.18,
+      "rec_previsto": 0.0,
+      "rec_total": 4016.18,
+      "adr": 223.12
+    },
+    {
+      "data": "2025-03-17",
+      "dow": "Seg",
+      "occ_pct": 35.25,
+      "ocupadas": 43,
+      "rec_efetivo": 9269.3,
+      "rec_previsto": 0.0,
+      "rec_total": 9269.3,
+      "adr": 215.57
+    },
+    {
+      "data": "2025-03-18",
+      "dow": "Ter",
+      "occ_pct": 67.21,
+      "ocupadas": 82,
+      "rec_efetivo": 19306.52,
+      "rec_previsto": 0.0,
+      "rec_total": 19306.52,
+      "adr": 235.45
+    },
+    {
+      "data": "2025-03-19",
+      "dow": "Qua",
+      "occ_pct": 63.93,
+      "ocupadas": 78,
+      "rec_efetivo": 16418.31,
+      "rec_previsto": 0.0,
+      "rec_total": 16418.31,
+      "adr": 210.49
+    },
+    {
+      "data": "2025-03-20",
+      "dow": "Qui",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 13624.5,
+      "rec_previsto": 0.0,
+      "rec_total": 13624.5,
+      "adr": 212.88
+    },
+    {
+      "data": "2025-03-21",
+      "dow": "Sex",
+      "occ_pct": 37.7,
+      "ocupadas": 46,
+      "rec_efetivo": 11040.77,
+      "rec_previsto": 0.0,
+      "rec_total": 11040.77,
+      "adr": 240.02
+    },
+    {
+      "data": "2025-03-22",
+      "dow": "Sab",
+      "occ_pct": 58.2,
+      "ocupadas": 71,
+      "rec_efetivo": 18417.23,
+      "rec_previsto": 0.0,
+      "rec_total": 18417.23,
+      "adr": 259.4
+    },
+    {
+      "data": "2025-03-23",
+      "dow": "Dom",
+      "occ_pct": 22.95,
+      "ocupadas": 28,
+      "rec_efetivo": 6433.24,
+      "rec_previsto": 0.0,
+      "rec_total": 6433.24,
+      "adr": 229.76
+    },
+    {
+      "data": "2025-03-24",
+      "dow": "Seg",
+      "occ_pct": 28.69,
+      "ocupadas": 35,
+      "rec_efetivo": 8334.48,
+      "rec_previsto": 0.0,
+      "rec_total": 8334.48,
+      "adr": 238.13
+    },
+    {
+      "data": "2025-03-25",
+      "dow": "Ter",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 12174.93,
+      "rec_previsto": 0.0,
+      "rec_total": 12174.93,
+      "adr": 213.6
+    },
+    {
+      "data": "2025-03-26",
+      "dow": "Qua",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 16326.01,
+      "rec_previsto": 0.0,
+      "rec_total": 16326.01,
+      "adr": 217.68
+    },
+    {
+      "data": "2025-03-27",
+      "dow": "Qui",
+      "occ_pct": 48.36,
+      "ocupadas": 59,
+      "rec_efetivo": 13019.98,
+      "rec_previsto": 0.0,
+      "rec_total": 13019.98,
+      "adr": 220.68
+    },
+    {
+      "data": "2025-03-28",
+      "dow": "Sex",
+      "occ_pct": 33.61,
+      "ocupadas": 41,
+      "rec_efetivo": 11051.71,
+      "rec_previsto": 0.0,
+      "rec_total": 11051.71,
+      "adr": 269.55
+    },
+    {
+      "data": "2025-03-29",
+      "dow": "Sab",
+      "occ_pct": 65.57,
+      "ocupadas": 80,
+      "rec_efetivo": 24985.26,
+      "rec_previsto": 0.0,
+      "rec_total": 24985.26,
+      "adr": 312.32
+    },
+    {
+      "data": "2025-03-30",
+      "dow": "Dom",
+      "occ_pct": 15.57,
+      "ocupadas": 19,
+      "rec_efetivo": 4532.23,
+      "rec_previsto": 0.0,
+      "rec_total": 4532.23,
+      "adr": 238.54
+    },
+    {
+      "data": "2025-03-31",
+      "dow": "Seg",
+      "occ_pct": 38.52,
+      "ocupadas": 47,
+      "rec_efetivo": 10080.97,
+      "rec_previsto": 0.0,
+      "rec_total": 10080.97,
+      "adr": 214.49
+    },
+    {
+      "data": "2025-04-01",
+      "dow": "Ter",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 15800.93,
+      "rec_previsto": 0.0,
+      "rec_total": 15800.93,
+      "adr": 210.68
+    },
+    {
+      "data": "2025-04-02",
+      "dow": "Qua",
+      "occ_pct": 65.57,
+      "ocupadas": 80,
+      "rec_efetivo": 16854.88,
+      "rec_previsto": 0.0,
+      "rec_total": 16854.88,
+      "adr": 210.69
+    },
+    {
+      "data": "2025-04-03",
+      "dow": "Qui",
+      "occ_pct": 59.02,
+      "ocupadas": 72,
+      "rec_efetivo": 15717.48,
+      "rec_previsto": 0.0,
+      "rec_total": 15717.48,
+      "adr": 218.3
+    },
+    {
+      "data": "2025-04-04",
+      "dow": "Sex",
+      "occ_pct": 40.16,
+      "ocupadas": 49,
+      "rec_efetivo": 12282.48,
+      "rec_previsto": 0.0,
+      "rec_total": 12282.48,
+      "adr": 250.66
+    },
+    {
+      "data": "2025-04-05",
+      "dow": "Sab",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 17724.89,
+      "rec_previsto": 0.0,
+      "rec_total": 17724.89,
+      "adr": 253.21
+    },
+    {
+      "data": "2025-04-06",
+      "dow": "Dom",
+      "occ_pct": 27.87,
+      "ocupadas": 34,
+      "rec_efetivo": 8256.6,
+      "rec_previsto": 0.0,
+      "rec_total": 8256.6,
+      "adr": 242.84
+    },
+    {
+      "data": "2025-04-07",
+      "dow": "Seg",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 13135.26,
+      "rec_previsto": 0.0,
+      "rec_total": 13135.26,
+      "adr": 205.24
+    },
+    {
+      "data": "2025-04-08",
+      "dow": "Ter",
+      "occ_pct": 81.97,
+      "ocupadas": 100,
+      "rec_efetivo": 21971.79,
+      "rec_previsto": 0.0,
+      "rec_total": 21971.79,
+      "adr": 219.72
+    },
+    {
+      "data": "2025-04-09",
+      "dow": "Qua",
+      "occ_pct": 90.98,
+      "ocupadas": 111,
+      "rec_efetivo": 26141.3,
+      "rec_previsto": 0.0,
+      "rec_total": 26141.3,
+      "adr": 235.51
+    },
+    {
+      "data": "2025-04-10",
+      "dow": "Qui",
+      "occ_pct": 81.97,
+      "ocupadas": 100,
+      "rec_efetivo": 23991.98,
+      "rec_previsto": 0.0,
+      "rec_total": 23991.98,
+      "adr": 239.92
+    },
+    {
+      "data": "2025-04-11",
+      "dow": "Sex",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 16971.42,
+      "rec_previsto": 0.0,
+      "rec_total": 16971.42,
+      "adr": 269.39
+    },
+    {
+      "data": "2025-04-12",
+      "dow": "Sab",
+      "occ_pct": 72.13,
+      "ocupadas": 88,
+      "rec_efetivo": 25194.71,
+      "rec_previsto": 0.0,
+      "rec_total": 25194.71,
+      "adr": 286.3
+    },
+    {
+      "data": "2025-04-13",
+      "dow": "Dom",
+      "occ_pct": 22.95,
+      "ocupadas": 28,
+      "rec_efetivo": 6610.62,
+      "rec_previsto": 0.0,
+      "rec_total": 6610.62,
+      "adr": 236.09
+    },
+    {
+      "data": "2025-04-14",
+      "dow": "Seg",
+      "occ_pct": 55.74,
+      "ocupadas": 68,
+      "rec_efetivo": 15033.0,
+      "rec_previsto": 0.0,
+      "rec_total": 15033.0,
+      "adr": 221.07
+    },
+    {
+      "data": "2025-04-15",
+      "dow": "Ter",
+      "occ_pct": 70.49,
+      "ocupadas": 86,
+      "rec_efetivo": 18252.72,
+      "rec_previsto": 0.0,
+      "rec_total": 18252.72,
+      "adr": 212.24
+    },
+    {
+      "data": "2025-04-16",
+      "dow": "Qua",
+      "occ_pct": 54.92,
+      "ocupadas": 67,
+      "rec_efetivo": 14303.34,
+      "rec_previsto": 0.0,
+      "rec_total": 14303.34,
+      "adr": 213.48
+    },
+    {
+      "data": "2025-04-17",
+      "dow": "Qui",
+      "occ_pct": 37.7,
+      "ocupadas": 46,
+      "rec_efetivo": 11789.48,
+      "rec_previsto": 0.0,
+      "rec_total": 11789.48,
+      "adr": 256.29
+    },
+    {
+      "data": "2025-04-18",
+      "dow": "Sex",
+      "occ_pct": 58.2,
+      "ocupadas": 71,
+      "rec_efetivo": 20373.21,
+      "rec_previsto": 0.0,
+      "rec_total": 20373.21,
+      "adr": 286.95
+    },
+    {
+      "data": "2025-04-19",
+      "dow": "Sab",
+      "occ_pct": 77.05,
+      "ocupadas": 94,
+      "rec_efetivo": 28817.02,
+      "rec_previsto": 0.0,
+      "rec_total": 28817.02,
+      "adr": 306.56
+    },
+    {
+      "data": "2025-04-20",
+      "dow": "Dom",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 16806.69,
+      "rec_previsto": 0.0,
+      "rec_total": 16806.69,
+      "adr": 294.85
+    },
+    {
+      "data": "2025-04-21",
+      "dow": "Seg",
+      "occ_pct": 22.13,
+      "ocupadas": 27,
+      "rec_efetivo": 7235.34,
+      "rec_previsto": 0.0,
+      "rec_total": 7235.34,
+      "adr": 267.98
+    },
+    {
+      "data": "2025-04-22",
+      "dow": "Ter",
+      "occ_pct": 48.36,
+      "ocupadas": 59,
+      "rec_efetivo": 14023.66,
+      "rec_previsto": 0.0,
+      "rec_total": 14023.66,
+      "adr": 237.69
+    },
+    {
+      "data": "2025-04-23",
+      "dow": "Qua",
+      "occ_pct": 53.28,
+      "ocupadas": 65,
+      "rec_efetivo": 14102.92,
+      "rec_previsto": 0.0,
+      "rec_total": 14102.92,
+      "adr": 216.97
+    },
+    {
+      "data": "2025-04-24",
+      "dow": "Qui",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 10368.65,
+      "rec_previsto": 0.0,
+      "rec_total": 10368.65,
+      "adr": 207.37
+    },
+    {
+      "data": "2025-04-25",
+      "dow": "Sex",
+      "occ_pct": 36.07,
+      "ocupadas": 44,
+      "rec_efetivo": 11827.47,
+      "rec_previsto": 0.0,
+      "rec_total": 11827.47,
+      "adr": 268.81
+    },
+    {
+      "data": "2025-04-26",
+      "dow": "Sab",
+      "occ_pct": 43.44,
+      "ocupadas": 53,
+      "rec_efetivo": 13719.22,
+      "rec_previsto": 0.0,
+      "rec_total": 13719.22,
+      "adr": 258.85
+    },
+    {
+      "data": "2025-04-27",
+      "dow": "Dom",
+      "occ_pct": 17.21,
+      "ocupadas": 21,
+      "rec_efetivo": 4773.72,
+      "rec_previsto": 0.0,
+      "rec_total": 4773.72,
+      "adr": 227.32
+    },
+    {
+      "data": "2025-04-28",
+      "dow": "Seg",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 13518.57,
+      "rec_previsto": 0.0,
+      "rec_total": 13518.57,
+      "adr": 214.58
+    },
+    {
+      "data": "2025-04-29",
+      "dow": "Ter",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 20000.0,
+      "rec_previsto": 0.0,
+      "rec_total": 20000.0,
+      "adr": 303.03
+    },
+    {
+      "data": "2025-04-30",
+      "dow": "Qua",
+      "occ_pct": 27.05,
+      "ocupadas": 33,
+      "rec_efetivo": 8125.51,
+      "rec_previsto": 0.0,
+      "rec_total": 8125.51,
+      "adr": 246.23
+    },
+    {
+      "data": "2025-05-01",
+      "dow": "Qui",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 16920.69,
+      "rec_previsto": 0.0,
+      "rec_total": 16920.69,
+      "adr": 268.58
+    },
+    {
+      "data": "2025-05-02",
+      "dow": "Sex",
+      "occ_pct": 69.67,
+      "ocupadas": 85,
+      "rec_efetivo": 23459.76,
+      "rec_previsto": 0.0,
+      "rec_total": 23459.76,
+      "adr": 276.0
+    },
+    {
+      "data": "2025-05-03",
+      "dow": "Sab",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 24960.44,
+      "rec_previsto": 0.0,
+      "rec_total": 24960.44,
+      "adr": 297.15
+    },
+    {
+      "data": "2025-05-04",
+      "dow": "Dom",
+      "occ_pct": 22.95,
+      "ocupadas": 28,
+      "rec_efetivo": 6902.12,
+      "rec_previsto": 0.0,
+      "rec_total": 6902.12,
+      "adr": 246.5
+    },
+    {
+      "data": "2025-05-05",
+      "dow": "Seg",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 14375.82,
+      "rec_previsto": 0.0,
+      "rec_total": 14375.82,
+      "adr": 239.6
+    },
+    {
+      "data": "2025-05-06",
+      "dow": "Ter",
+      "occ_pct": 59.84,
+      "ocupadas": 73,
+      "rec_efetivo": 15133.68,
+      "rec_previsto": 0.0,
+      "rec_total": 15133.68,
+      "adr": 207.31
+    },
+    {
+      "data": "2025-05-07",
+      "dow": "Qua",
+      "occ_pct": 63.93,
+      "ocupadas": 78,
+      "rec_efetivo": 16319.68,
+      "rec_previsto": 0.0,
+      "rec_total": 16319.68,
+      "adr": 209.23
+    },
+    {
+      "data": "2025-05-08",
+      "dow": "Qui",
+      "occ_pct": 56.56,
+      "ocupadas": 69,
+      "rec_efetivo": 14916.81,
+      "rec_previsto": 0.0,
+      "rec_total": 14916.81,
+      "adr": 216.19
+    },
+    {
+      "data": "2025-05-09",
+      "dow": "Sex",
+      "occ_pct": 22.95,
+      "ocupadas": 28,
+      "rec_efetivo": 6242.78,
+      "rec_previsto": 0.0,
+      "rec_total": 6242.78,
+      "adr": 222.96
+    },
+    {
+      "data": "2025-05-10",
+      "dow": "Sab",
+      "occ_pct": 31.15,
+      "ocupadas": 38,
+      "rec_efetivo": 9317.76,
+      "rec_previsto": 0.0,
+      "rec_total": 9317.76,
+      "adr": 245.2
+    },
+    {
+      "data": "2025-05-11",
+      "dow": "Dom",
+      "occ_pct": 14.75,
+      "ocupadas": 18,
+      "rec_efetivo": 4087.04,
+      "rec_previsto": 0.0,
+      "rec_total": 4087.04,
+      "adr": 227.06
+    },
+    {
+      "data": "2025-05-12",
+      "dow": "Seg",
+      "occ_pct": 45.08,
+      "ocupadas": 55,
+      "rec_efetivo": 11526.41,
+      "rec_previsto": 0.0,
+      "rec_total": 11526.41,
+      "adr": 209.57
+    },
+    {
+      "data": "2025-05-13",
+      "dow": "Ter",
+      "occ_pct": 62.3,
+      "ocupadas": 76,
+      "rec_efetivo": 15460.57,
+      "rec_previsto": 0.0,
+      "rec_total": 15460.57,
+      "adr": 203.43
+    },
+    {
+      "data": "2025-05-14",
+      "dow": "Qua",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 19071.13,
+      "rec_previsto": 0.0,
+      "rec_total": 19071.13,
+      "adr": 211.9
+    },
+    {
+      "data": "2025-05-15",
+      "dow": "Qui",
+      "occ_pct": 53.28,
+      "ocupadas": 65,
+      "rec_efetivo": 13334.41,
+      "rec_previsto": 0.0,
+      "rec_total": 13334.41,
+      "adr": 205.14
+    },
+    {
+      "data": "2025-05-16",
+      "dow": "Sex",
+      "occ_pct": 40.16,
+      "ocupadas": 49,
+      "rec_efetivo": 11835.27,
+      "rec_previsto": 0.0,
+      "rec_total": 11835.27,
+      "adr": 241.54
+    },
+    {
+      "data": "2025-05-17",
+      "dow": "Sab",
+      "occ_pct": 72.95,
+      "ocupadas": 89,
+      "rec_efetivo": 23265.72,
+      "rec_previsto": 0.0,
+      "rec_total": 23265.72,
+      "adr": 261.41
+    },
+    {
+      "data": "2025-05-18",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 6360.01,
+      "rec_previsto": 0.0,
+      "rec_total": 6360.01,
+      "adr": 244.62
+    },
+    {
+      "data": "2025-05-19",
+      "dow": "Seg",
+      "occ_pct": 64.75,
+      "ocupadas": 79,
+      "rec_efetivo": 16322.11,
+      "rec_previsto": 0.0,
+      "rec_total": 16322.11,
+      "adr": 206.61
+    },
+    {
+      "data": "2025-05-20",
+      "dow": "Ter",
+      "occ_pct": 79.51,
+      "ocupadas": 97,
+      "rec_efetivo": 23529.25,
+      "rec_previsto": 0.0,
+      "rec_total": 23529.25,
+      "adr": 242.57
+    },
+    {
+      "data": "2025-05-21",
+      "dow": "Qua",
+      "occ_pct": 81.97,
+      "ocupadas": 100,
+      "rec_efetivo": 21390.07,
+      "rec_previsto": 0.0,
+      "rec_total": 21390.07,
+      "adr": 213.9
+    },
+    {
+      "data": "2025-05-22",
+      "dow": "Qui",
+      "occ_pct": 72.95,
+      "ocupadas": 89,
+      "rec_efetivo": 19924.66,
+      "rec_previsto": 0.0,
+      "rec_total": 19924.66,
+      "adr": 223.87
+    },
+    {
+      "data": "2025-05-23",
+      "dow": "Sex",
+      "occ_pct": 44.26,
+      "ocupadas": 54,
+      "rec_efetivo": 14765.97,
+      "rec_previsto": 0.0,
+      "rec_total": 14765.97,
+      "adr": 273.44
+    },
+    {
+      "data": "2025-05-24",
+      "dow": "Sab",
+      "occ_pct": 75.41,
+      "ocupadas": 92,
+      "rec_efetivo": 27559.79,
+      "rec_previsto": 0.0,
+      "rec_total": 27559.79,
+      "adr": 299.56
+    },
+    {
+      "data": "2025-05-25",
+      "dow": "Dom",
+      "occ_pct": 15.57,
+      "ocupadas": 19,
+      "rec_efetivo": 4734.11,
+      "rec_previsto": 0.0,
+      "rec_total": 4734.11,
+      "adr": 249.16
+    },
+    {
+      "data": "2025-05-26",
+      "dow": "Seg",
+      "occ_pct": 29.51,
+      "ocupadas": 36,
+      "rec_efetivo": 7811.42,
+      "rec_previsto": 0.0,
+      "rec_total": 7811.42,
+      "adr": 216.98
+    },
+    {
+      "data": "2025-05-27",
+      "dow": "Ter",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 13565.55,
+      "rec_previsto": 0.0,
+      "rec_total": 13565.55,
+      "adr": 211.96
+    },
+    {
+      "data": "2025-05-28",
+      "dow": "Qua",
+      "occ_pct": 59.84,
+      "ocupadas": 73,
+      "rec_efetivo": 15359.52,
+      "rec_previsto": 0.0,
+      "rec_total": 15359.52,
+      "adr": 210.4
+    },
+    {
+      "data": "2025-05-29",
+      "dow": "Qui",
+      "occ_pct": 41.8,
+      "ocupadas": 51,
+      "rec_efetivo": 10479.47,
+      "rec_previsto": 0.0,
+      "rec_total": 10479.47,
+      "adr": 205.48
+    },
+    {
+      "data": "2025-05-30",
+      "dow": "Sex",
+      "occ_pct": 31.97,
+      "ocupadas": 39,
+      "rec_efetivo": 9073.68,
+      "rec_previsto": 0.0,
+      "rec_total": 9073.68,
+      "adr": 232.66
+    },
+    {
+      "data": "2025-05-31",
+      "dow": "Sab",
+      "occ_pct": 67.21,
+      "ocupadas": 82,
+      "rec_efetivo": 21363.78,
+      "rec_previsto": 0.0,
+      "rec_total": 21363.78,
+      "adr": 260.53
+    },
+    {
+      "data": "2025-06-01",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 6362.35,
+      "rec_previsto": 0.0,
+      "rec_total": 6362.35,
+      "adr": 244.71
+    },
+    {
+      "data": "2025-06-02",
+      "dow": "Seg",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 13393.06,
+      "rec_previsto": 0.0,
+      "rec_total": 13393.06,
+      "adr": 212.59
+    },
+    {
+      "data": "2025-06-03",
+      "dow": "Ter",
+      "occ_pct": 72.95,
+      "ocupadas": 89,
+      "rec_efetivo": 18873.31,
+      "rec_previsto": 0.0,
+      "rec_total": 18873.31,
+      "adr": 212.06
+    },
+    {
+      "data": "2025-06-04",
+      "dow": "Qua",
+      "occ_pct": 82.79,
+      "ocupadas": 101,
+      "rec_efetivo": 21626.38,
+      "rec_previsto": 0.0,
+      "rec_total": 21626.38,
+      "adr": 214.12
+    },
+    {
+      "data": "2025-06-05",
+      "dow": "Qui",
+      "occ_pct": 63.11,
+      "ocupadas": 77,
+      "rec_efetivo": 16996.43,
+      "rec_previsto": 0.0,
+      "rec_total": 16996.43,
+      "adr": 220.73
+    },
+    {
+      "data": "2025-06-06",
+      "dow": "Sex",
+      "occ_pct": 32.79,
+      "ocupadas": 40,
+      "rec_efetivo": 9540.14,
+      "rec_previsto": 0.0,
+      "rec_total": 9540.14,
+      "adr": 238.5
+    },
+    {
+      "data": "2025-06-07",
+      "dow": "Sab",
+      "occ_pct": 45.9,
+      "ocupadas": 56,
+      "rec_efetivo": 14826.96,
+      "rec_previsto": 0.0,
+      "rec_total": 14826.96,
+      "adr": 264.77
+    },
+    {
+      "data": "2025-06-08",
+      "dow": "Dom",
+      "occ_pct": 14.75,
+      "ocupadas": 18,
+      "rec_efetivo": 4011.87,
+      "rec_previsto": 0.0,
+      "rec_total": 4011.87,
+      "adr": 222.88
+    },
+    {
+      "data": "2025-06-09",
+      "dow": "Seg",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 13902.48,
+      "rec_previsto": 0.0,
+      "rec_total": 13902.48,
+      "adr": 220.67
+    },
+    {
+      "data": "2025-06-10",
+      "dow": "Ter",
+      "occ_pct": 67.21,
+      "ocupadas": 82,
+      "rec_efetivo": 17982.52,
+      "rec_previsto": 0.0,
+      "rec_total": 17982.52,
+      "adr": 219.3
+    },
+    {
+      "data": "2025-06-11",
+      "dow": "Qua",
+      "occ_pct": 55.74,
+      "ocupadas": 68,
+      "rec_efetivo": 14933.28,
+      "rec_previsto": 0.0,
+      "rec_total": 14933.28,
+      "adr": 219.61
+    },
+    {
+      "data": "2025-06-12",
+      "dow": "Qui",
+      "occ_pct": 50.82,
+      "ocupadas": 62,
+      "rec_efetivo": 14657.05,
+      "rec_previsto": 0.0,
+      "rec_total": 14657.05,
+      "adr": 236.4
+    },
+    {
+      "data": "2025-06-13",
+      "dow": "Sex",
+      "occ_pct": 27.05,
+      "ocupadas": 33,
+      "rec_efetivo": 8343.7,
+      "rec_previsto": 0.0,
+      "rec_total": 8343.7,
+      "adr": 252.84
+    },
+    {
+      "data": "2025-06-14",
+      "dow": "Sab",
+      "occ_pct": 43.44,
+      "ocupadas": 53,
+      "rec_efetivo": 14154.17,
+      "rec_previsto": 0.0,
+      "rec_total": 14154.17,
+      "adr": 267.06
+    },
+    {
+      "data": "2025-06-15",
+      "dow": "Dom",
+      "occ_pct": 13.93,
+      "ocupadas": 17,
+      "rec_efetivo": 4364.16,
+      "rec_previsto": 0.0,
+      "rec_total": 4364.16,
+      "adr": 256.72
+    },
+    {
+      "data": "2025-06-16",
+      "dow": "Seg",
+      "occ_pct": 45.08,
+      "ocupadas": 55,
+      "rec_efetivo": 11824.91,
+      "rec_previsto": 0.0,
+      "rec_total": 11824.91,
+      "adr": 215.0
+    },
+    {
+      "data": "2025-06-17",
+      "dow": "Ter",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 12633.23,
+      "rec_previsto": 0.0,
+      "rec_total": 12633.23,
+      "adr": 221.64
+    },
+    {
+      "data": "2025-06-18",
+      "dow": "Qua",
+      "occ_pct": 23.77,
+      "ocupadas": 29,
+      "rec_efetivo": 6945.55,
+      "rec_previsto": 0.0,
+      "rec_total": 6945.55,
+      "adr": 239.5
+    },
+    {
+      "data": "2025-06-19",
+      "dow": "Qui",
+      "occ_pct": 45.08,
+      "ocupadas": 55,
+      "rec_efetivo": 14542.45,
+      "rec_previsto": 0.0,
+      "rec_total": 14542.45,
+      "adr": 264.41
+    },
+    {
+      "data": "2025-06-20",
+      "dow": "Sex",
+      "occ_pct": 75.41,
+      "ocupadas": 92,
+      "rec_efetivo": 26121.04,
+      "rec_previsto": 0.0,
+      "rec_total": 26121.04,
+      "adr": 283.92
+    },
+    {
+      "data": "2025-06-21",
+      "dow": "Sab",
+      "occ_pct": 55.74,
+      "ocupadas": 68,
+      "rec_efetivo": 18943.54,
+      "rec_previsto": 0.0,
+      "rec_total": 18943.54,
+      "adr": 278.58
+    },
+    {
+      "data": "2025-06-22",
+      "dow": "Dom",
+      "occ_pct": 18.85,
+      "ocupadas": 23,
+      "rec_efetivo": 5679.54,
+      "rec_previsto": 0.0,
+      "rec_total": 5679.54,
+      "adr": 246.94
+    },
+    {
+      "data": "2025-06-23",
+      "dow": "Seg",
+      "occ_pct": 44.26,
+      "ocupadas": 54,
+      "rec_efetivo": 12046.2,
+      "rec_previsto": 0.0,
+      "rec_total": 12046.2,
+      "adr": 223.08
+    },
+    {
+      "data": "2025-06-24",
+      "dow": "Ter",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 18168.87,
+      "rec_previsto": 0.0,
+      "rec_total": 18168.87,
+      "adr": 208.84
+    },
+    {
+      "data": "2025-06-25",
+      "dow": "Qua",
+      "occ_pct": 79.51,
+      "ocupadas": 97,
+      "rec_efetivo": 22076.65,
+      "rec_previsto": 0.0,
+      "rec_total": 22076.65,
+      "adr": 227.59
+    },
+    {
+      "data": "2025-06-26",
+      "dow": "Qui",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 16102.68,
+      "rec_previsto": 0.0,
+      "rec_total": 16102.68,
+      "adr": 230.04
+    },
+    {
+      "data": "2025-06-27",
+      "dow": "Sex",
+      "occ_pct": 34.43,
+      "ocupadas": 42,
+      "rec_efetivo": 10444.33,
+      "rec_previsto": 0.0,
+      "rec_total": 10444.33,
+      "adr": 248.67
+    },
+    {
+      "data": "2025-06-28",
+      "dow": "Sab",
+      "occ_pct": 42.62,
+      "ocupadas": 52,
+      "rec_efetivo": 12809.63,
+      "rec_previsto": 0.0,
+      "rec_total": 12809.63,
+      "adr": 246.34
+    },
+    {
+      "data": "2025-06-29",
+      "dow": "Dom",
+      "occ_pct": 13.11,
+      "ocupadas": 16,
+      "rec_efetivo": 3338.66,
+      "rec_previsto": 0.0,
+      "rec_total": 3338.66,
+      "adr": 208.67
+    },
+    {
+      "data": "2025-06-30",
+      "dow": "Seg",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 11309.34,
+      "rec_previsto": 0.0,
+      "rec_total": 11309.34,
+      "adr": 198.41
+    },
+    {
+      "data": "2025-07-01",
+      "dow": "Ter",
+      "occ_pct": 70.49,
+      "ocupadas": 86,
+      "rec_efetivo": 18451.74,
+      "rec_previsto": 0.0,
+      "rec_total": 18451.74,
+      "adr": 214.56
+    },
+    {
+      "data": "2025-07-02",
+      "dow": "Qua",
+      "occ_pct": 72.13,
+      "ocupadas": 88,
+      "rec_efetivo": 20523.31,
+      "rec_previsto": 0.0,
+      "rec_total": 20523.31,
+      "adr": 233.22
+    },
+    {
+      "data": "2025-07-03",
+      "dow": "Qui",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 22278.09,
+      "rec_previsto": 0.0,
+      "rec_total": 22278.09,
+      "adr": 247.53
+    },
+    {
+      "data": "2025-07-04",
+      "dow": "Sex",
+      "occ_pct": 63.11,
+      "ocupadas": 77,
+      "rec_efetivo": 23768.66,
+      "rec_previsto": 0.0,
+      "rec_total": 23768.66,
+      "adr": 308.68
+    },
+    {
+      "data": "2025-07-05",
+      "dow": "Sab",
+      "occ_pct": 98.36,
+      "ocupadas": 120,
+      "rec_efetivo": 37155.44,
+      "rec_previsto": 0.0,
+      "rec_total": 37155.44,
+      "adr": 309.63
+    },
+    {
+      "data": "2025-07-06",
+      "dow": "Dom",
+      "occ_pct": 23.77,
+      "ocupadas": 29,
+      "rec_efetivo": 6526.59,
+      "rec_previsto": 0.0,
+      "rec_total": 6526.59,
+      "adr": 225.05
+    },
+    {
+      "data": "2025-07-07",
+      "dow": "Seg",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 13454.82,
+      "rec_previsto": 0.0,
+      "rec_total": 13454.82,
+      "adr": 213.57
+    },
+    {
+      "data": "2025-07-08",
+      "dow": "Ter",
+      "occ_pct": 66.39,
+      "ocupadas": 81,
+      "rec_efetivo": 17579.05,
+      "rec_previsto": 0.0,
+      "rec_total": 17579.05,
+      "adr": 217.03
+    },
+    {
+      "data": "2025-07-09",
+      "dow": "Qua",
+      "occ_pct": 50.82,
+      "ocupadas": 62,
+      "rec_efetivo": 13511.17,
+      "rec_previsto": 0.0,
+      "rec_total": 13511.17,
+      "adr": 217.92
+    },
+    {
+      "data": "2025-07-10",
+      "dow": "Qui",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 14544.31,
+      "rec_previsto": 0.0,
+      "rec_total": 14544.31,
+      "adr": 227.25
+    },
+    {
+      "data": "2025-07-11",
+      "dow": "Sex",
+      "occ_pct": 37.7,
+      "ocupadas": 46,
+      "rec_efetivo": 12323.42,
+      "rec_previsto": 0.0,
+      "rec_total": 12323.42,
+      "adr": 267.9
+    },
+    {
+      "data": "2025-07-12",
+      "dow": "Sab",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 22149.13,
+      "rec_previsto": 0.0,
+      "rec_total": 22149.13,
+      "adr": 299.31
+    },
+    {
+      "data": "2025-07-13",
+      "dow": "Dom",
+      "occ_pct": 27.87,
+      "ocupadas": 34,
+      "rec_efetivo": 8922.25,
+      "rec_previsto": 0.0,
+      "rec_total": 8922.25,
+      "adr": 262.42
+    },
+    {
+      "data": "2025-07-14",
+      "dow": "Seg",
+      "occ_pct": 59.02,
+      "ocupadas": 72,
+      "rec_efetivo": 17075.24,
+      "rec_previsto": 0.0,
+      "rec_total": 17075.24,
+      "adr": 237.16
+    },
+    {
+      "data": "2025-07-15",
+      "dow": "Ter",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 17176.87,
+      "rec_previsto": 0.0,
+      "rec_total": 17176.87,
+      "adr": 232.12
+    },
+    {
+      "data": "2025-07-16",
+      "dow": "Qua",
+      "occ_pct": 50.0,
+      "ocupadas": 61,
+      "rec_efetivo": 14586.39,
+      "rec_previsto": 0.0,
+      "rec_total": 14586.39,
+      "adr": 239.12
+    },
+    {
+      "data": "2025-07-17",
+      "dow": "Qui",
+      "occ_pct": 50.0,
+      "ocupadas": 61,
+      "rec_efetivo": 14926.79,
+      "rec_previsto": 0.0,
+      "rec_total": 14926.79,
+      "adr": 244.7
+    },
+    {
+      "data": "2025-07-18",
+      "dow": "Sex",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 18049.52,
+      "rec_previsto": 0.0,
+      "rec_total": 18049.52,
+      "adr": 316.66
+    },
+    {
+      "data": "2025-07-19",
+      "dow": "Sab",
+      "occ_pct": 78.69,
+      "ocupadas": 96,
+      "rec_efetivo": 30930.61,
+      "rec_previsto": 0.0,
+      "rec_total": 30930.61,
+      "adr": 322.19
+    },
+    {
+      "data": "2025-07-20",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 7585.65,
+      "rec_previsto": 0.0,
+      "rec_total": 7585.65,
+      "adr": 291.76
+    },
+    {
+      "data": "2025-07-21",
+      "dow": "Seg",
+      "occ_pct": 38.52,
+      "ocupadas": 47,
+      "rec_efetivo": 11411.26,
+      "rec_previsto": 0.0,
+      "rec_total": 11411.26,
+      "adr": 242.79
+    },
+    {
+      "data": "2025-07-22",
+      "dow": "Ter",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 15182.77,
+      "rec_previsto": 0.0,
+      "rec_total": 15182.77,
+      "adr": 230.04
+    },
+    {
+      "data": "2025-07-23",
+      "dow": "Qua",
+      "occ_pct": 69.67,
+      "ocupadas": 85,
+      "rec_efetivo": 18989.15,
+      "rec_previsto": 0.0,
+      "rec_total": 18989.15,
+      "adr": 223.4
+    },
+    {
+      "data": "2025-07-24",
+      "dow": "Qui",
+      "occ_pct": 50.82,
+      "ocupadas": 62,
+      "rec_efetivo": 14391.64,
+      "rec_previsto": 0.0,
+      "rec_total": 14391.64,
+      "adr": 232.12
+    },
+    {
+      "data": "2025-07-25",
+      "dow": "Sex",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 18131.55,
+      "rec_previsto": 0.0,
+      "rec_total": 18131.55,
+      "adr": 283.31
+    },
+    {
+      "data": "2025-07-26",
+      "dow": "Sab",
+      "occ_pct": 68.03,
+      "ocupadas": 83,
+      "rec_efetivo": 25189.67,
+      "rec_previsto": 0.0,
+      "rec_total": 25189.67,
+      "adr": 303.49
+    },
+    {
+      "data": "2025-07-27",
+      "dow": "Dom",
+      "occ_pct": 22.13,
+      "ocupadas": 27,
+      "rec_efetivo": 6494.93,
+      "rec_previsto": 0.0,
+      "rec_total": 6494.93,
+      "adr": 240.55
+    },
+    {
+      "data": "2025-07-28",
+      "dow": "Seg",
+      "occ_pct": 40.16,
+      "ocupadas": 49,
+      "rec_efetivo": 11171.24,
+      "rec_previsto": 0.0,
+      "rec_total": 11171.24,
+      "adr": 227.98
+    },
+    {
+      "data": "2025-07-29",
+      "dow": "Ter",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 14629.77,
+      "rec_previsto": 0.0,
+      "rec_total": 14629.77,
+      "adr": 221.66
+    },
+    {
+      "data": "2025-07-30",
+      "dow": "Qua",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 15440.45,
+      "rec_previsto": 0.0,
+      "rec_total": 15440.45,
+      "adr": 220.58
+    },
+    {
+      "data": "2025-07-31",
+      "dow": "Qui",
+      "occ_pct": 59.84,
+      "ocupadas": 73,
+      "rec_efetivo": 16537.2,
+      "rec_previsto": 0.0,
+      "rec_total": 16537.2,
+      "adr": 226.54
+    },
+    {
+      "data": "2025-08-01",
+      "dow": "Sex",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 16694.51,
+      "rec_previsto": 0.0,
+      "rec_total": 16694.51,
+      "adr": 278.24
+    },
+    {
+      "data": "2025-08-02",
+      "dow": "Sab",
+      "occ_pct": 82.79,
+      "ocupadas": 101,
+      "rec_efetivo": 28492.23,
+      "rec_previsto": 0.0,
+      "rec_total": 28492.23,
+      "adr": 282.1
+    },
+    {
+      "data": "2025-08-03",
+      "dow": "Dom",
+      "occ_pct": 17.21,
+      "ocupadas": 21,
+      "rec_efetivo": 5408.05,
+      "rec_previsto": 0.0,
+      "rec_total": 5408.05,
+      "adr": 257.53
+    },
+    {
+      "data": "2025-08-04",
+      "dow": "Seg",
+      "occ_pct": 42.62,
+      "ocupadas": 52,
+      "rec_efetivo": 11068.12,
+      "rec_previsto": 0.0,
+      "rec_total": 11068.12,
+      "adr": 212.85
+    },
+    {
+      "data": "2025-08-05",
+      "dow": "Ter",
+      "occ_pct": 65.57,
+      "ocupadas": 80,
+      "rec_efetivo": 17313.8,
+      "rec_previsto": 0.0,
+      "rec_total": 17313.8,
+      "adr": 216.42
+    },
+    {
+      "data": "2025-08-06",
+      "dow": "Qua",
+      "occ_pct": 72.95,
+      "ocupadas": 89,
+      "rec_efetivo": 19384.35,
+      "rec_previsto": 0.0,
+      "rec_total": 19384.35,
+      "adr": 217.8
+    },
+    {
+      "data": "2025-08-07",
+      "dow": "Qui",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 16715.68,
+      "rec_previsto": 0.0,
+      "rec_total": 16715.68,
+      "adr": 222.88
+    },
+    {
+      "data": "2025-08-08",
+      "dow": "Sex",
+      "occ_pct": 50.0,
+      "ocupadas": 61,
+      "rec_efetivo": 15751.07,
+      "rec_previsto": 0.0,
+      "rec_total": 15751.07,
+      "adr": 258.21
+    },
+    {
+      "data": "2025-08-09",
+      "dow": "Sab",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 16417.17,
+      "rec_previsto": 0.0,
+      "rec_total": 16417.17,
+      "adr": 288.02
+    },
+    {
+      "data": "2025-08-10",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 6625.46,
+      "rec_previsto": 0.0,
+      "rec_total": 6625.46,
+      "adr": 254.83
+    },
+    {
+      "data": "2025-08-11",
+      "dow": "Seg",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 14907.38,
+      "rec_previsto": 0.0,
+      "rec_total": 14907.38,
+      "adr": 225.87
+    },
+    {
+      "data": "2025-08-12",
+      "dow": "Ter",
+      "occ_pct": 63.11,
+      "ocupadas": 77,
+      "rec_efetivo": 16794.73,
+      "rec_previsto": 0.0,
+      "rec_total": 16794.73,
+      "adr": 218.11
+    },
+    {
+      "data": "2025-08-13",
+      "dow": "Qua",
+      "occ_pct": 63.11,
+      "ocupadas": 77,
+      "rec_efetivo": 17136.34,
+      "rec_previsto": 0.0,
+      "rec_total": 17136.34,
+      "adr": 222.55
+    },
+    {
+      "data": "2025-08-14",
+      "dow": "Qui",
+      "occ_pct": 51.64,
+      "ocupadas": 63,
+      "rec_efetivo": 14440.77,
+      "rec_previsto": 0.0,
+      "rec_total": 14440.77,
+      "adr": 229.22
+    },
+    {
+      "data": "2025-08-15",
+      "dow": "Sex",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 26752.45,
+      "rec_previsto": 0.0,
+      "rec_total": 26752.45,
+      "adr": 318.48
+    },
+    {
+      "data": "2025-08-16",
+      "dow": "Sab",
+      "occ_pct": 86.07,
+      "ocupadas": 105,
+      "rec_efetivo": 34866.96,
+      "rec_previsto": 0.0,
+      "rec_total": 34866.96,
+      "adr": 332.07
+    },
+    {
+      "data": "2025-08-17",
+      "dow": "Dom",
+      "occ_pct": 23.77,
+      "ocupadas": 29,
+      "rec_efetivo": 7509.61,
+      "rec_previsto": 0.0,
+      "rec_total": 7509.61,
+      "adr": 258.95
+    },
+    {
+      "data": "2025-08-18",
+      "dow": "Seg",
+      "occ_pct": 50.82,
+      "ocupadas": 62,
+      "rec_efetivo": 13735.57,
+      "rec_previsto": 0.0,
+      "rec_total": 13735.57,
+      "adr": 221.54
+    },
+    {
+      "data": "2025-08-19",
+      "dow": "Ter",
+      "occ_pct": 79.51,
+      "ocupadas": 97,
+      "rec_efetivo": 21379.42,
+      "rec_previsto": 0.0,
+      "rec_total": 21379.42,
+      "adr": 220.41
+    },
+    {
+      "data": "2025-08-20",
+      "dow": "Qua",
+      "occ_pct": 77.05,
+      "ocupadas": 94,
+      "rec_efetivo": 21421.1,
+      "rec_previsto": 0.0,
+      "rec_total": 21421.1,
+      "adr": 227.88
+    },
+    {
+      "data": "2025-08-21",
+      "dow": "Qui",
+      "occ_pct": 80.33,
+      "ocupadas": 98,
+      "rec_efetivo": 23597.9,
+      "rec_previsto": 0.0,
+      "rec_total": 23597.9,
+      "adr": 240.79
+    },
+    {
+      "data": "2025-08-22",
+      "dow": "Sex",
+      "occ_pct": 89.34,
+      "ocupadas": 109,
+      "rec_efetivo": 30904.08,
+      "rec_previsto": 0.0,
+      "rec_total": 30904.08,
+      "adr": 283.52
+    },
+    {
+      "data": "2025-08-23",
+      "dow": "Sab",
+      "occ_pct": 92.62,
+      "ocupadas": 113,
+      "rec_efetivo": 33756.78,
+      "rec_previsto": 0.0,
+      "rec_total": 33756.78,
+      "adr": 298.73
+    },
+    {
+      "data": "2025-08-24",
+      "dow": "Dom",
+      "occ_pct": 36.89,
+      "ocupadas": 45,
+      "rec_efetivo": 11402.67,
+      "rec_previsto": 0.0,
+      "rec_total": 11402.67,
+      "adr": 253.39
+    },
+    {
+      "data": "2025-08-25",
+      "dow": "Seg",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 18778.0,
+      "rec_previsto": 0.0,
+      "rec_total": 18778.0,
+      "adr": 223.55
+    },
+    {
+      "data": "2025-08-26",
+      "dow": "Ter",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 18744.22,
+      "rec_previsto": 0.0,
+      "rec_total": 18744.22,
+      "adr": 215.45
+    },
+    {
+      "data": "2025-08-27",
+      "dow": "Qua",
+      "occ_pct": 76.23,
+      "ocupadas": 93,
+      "rec_efetivo": 21254.51,
+      "rec_previsto": 0.0,
+      "rec_total": 21254.51,
+      "adr": 228.54
+    },
+    {
+      "data": "2025-08-28",
+      "dow": "Qui",
+      "occ_pct": 77.05,
+      "ocupadas": 94,
+      "rec_efetivo": 22217.3,
+      "rec_previsto": 0.0,
+      "rec_total": 22217.3,
+      "adr": 236.35
+    },
+    {
+      "data": "2025-08-29",
+      "dow": "Sex",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 17341.66,
+      "rec_previsto": 0.0,
+      "rec_total": 17341.66,
+      "adr": 247.74
+    },
+    {
+      "data": "2025-08-30",
+      "dow": "Sab",
+      "occ_pct": 59.02,
+      "ocupadas": 72,
+      "rec_efetivo": 18019.57,
+      "rec_previsto": 0.0,
+      "rec_total": 18019.57,
+      "adr": 250.27
+    },
+    {
+      "data": "2025-08-31",
+      "dow": "Dom",
+      "occ_pct": 13.93,
+      "ocupadas": 17,
+      "rec_efetivo": 4337.94,
+      "rec_previsto": 0.0,
+      "rec_total": 4337.94,
+      "adr": 255.17
+    },
+    {
+      "data": "2025-09-01",
+      "dow": "Seg",
+      "occ_pct": 58.2,
+      "ocupadas": 71,
+      "rec_efetivo": 14030.2,
+      "rec_previsto": 0.0,
+      "rec_total": 14030.2,
+      "adr": 197.61
+    },
+    {
+      "data": "2025-09-02",
+      "dow": "Ter",
+      "occ_pct": 74.59,
+      "ocupadas": 91,
+      "rec_efetivo": 18870.75,
+      "rec_previsto": 0.0,
+      "rec_total": 18870.75,
+      "adr": 207.37
+    },
+    {
+      "data": "2025-09-03",
+      "dow": "Qua",
+      "occ_pct": 69.67,
+      "ocupadas": 85,
+      "rec_efetivo": 18616.95,
+      "rec_previsto": 0.0,
+      "rec_total": 18616.95,
+      "adr": 219.02
+    },
+    {
+      "data": "2025-09-04",
+      "dow": "Qui",
+      "occ_pct": 53.28,
+      "ocupadas": 65,
+      "rec_efetivo": 14709.53,
+      "rec_previsto": 0.0,
+      "rec_total": 14709.53,
+      "adr": 226.3
+    },
+    {
+      "data": "2025-09-05",
+      "dow": "Sex",
+      "occ_pct": 43.44,
+      "ocupadas": 53,
+      "rec_efetivo": 12847.36,
+      "rec_previsto": 0.0,
+      "rec_total": 12847.36,
+      "adr": 242.4
+    },
+    {
+      "data": "2025-09-06",
+      "dow": "Sab",
+      "occ_pct": 59.84,
+      "ocupadas": 73,
+      "rec_efetivo": 19539.47,
+      "rec_previsto": 0.0,
+      "rec_total": 19539.47,
+      "adr": 267.66
+    },
+    {
+      "data": "2025-09-07",
+      "dow": "Dom",
+      "occ_pct": 18.85,
+      "ocupadas": 23,
+      "rec_efetivo": 5208.55,
+      "rec_previsto": 0.0,
+      "rec_total": 5208.55,
+      "adr": 226.46
+    },
+    {
+      "data": "2025-09-08",
+      "dow": "Seg",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 12516.87,
+      "rec_previsto": 0.0,
+      "rec_total": 12516.87,
+      "adr": 208.61
+    },
+    {
+      "data": "2025-09-09",
+      "dow": "Ter",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 15538.93,
+      "rec_previsto": 0.0,
+      "rec_total": 15538.93,
+      "adr": 209.99
+    },
+    {
+      "data": "2025-09-10",
+      "dow": "Qua",
+      "occ_pct": 64.75,
+      "ocupadas": 79,
+      "rec_efetivo": 16686.55,
+      "rec_previsto": 0.0,
+      "rec_total": 16686.55,
+      "adr": 211.22
+    },
+    {
+      "data": "2025-09-11",
+      "dow": "Qui",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 13724.05,
+      "rec_previsto": 0.0,
+      "rec_total": 13724.05,
+      "adr": 228.73
+    },
+    {
+      "data": "2025-09-12",
+      "dow": "Sex",
+      "occ_pct": 48.36,
+      "ocupadas": 59,
+      "rec_efetivo": 15281.8,
+      "rec_previsto": 0.0,
+      "rec_total": 15281.8,
+      "adr": 259.01
+    },
+    {
+      "data": "2025-09-13",
+      "dow": "Sab",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 24337.17,
+      "rec_previsto": 0.0,
+      "rec_total": 24337.17,
+      "adr": 270.41
+    },
+    {
+      "data": "2025-09-14",
+      "dow": "Dom",
+      "occ_pct": 27.05,
+      "ocupadas": 33,
+      "rec_efetivo": 7763.49,
+      "rec_previsto": 0.0,
+      "rec_total": 7763.49,
+      "adr": 235.26
+    },
+    {
+      "data": "2025-09-15",
+      "dow": "Seg",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 9931.66,
+      "rec_previsto": 0.0,
+      "rec_total": 9931.66,
+      "adr": 198.63
+    },
+    {
+      "data": "2025-09-16",
+      "dow": "Ter",
+      "occ_pct": 63.11,
+      "ocupadas": 77,
+      "rec_efetivo": 16138.09,
+      "rec_previsto": 0.0,
+      "rec_total": 16138.09,
+      "adr": 209.59
+    },
+    {
+      "data": "2025-09-17",
+      "dow": "Qua",
+      "occ_pct": 72.13,
+      "ocupadas": 88,
+      "rec_efetivo": 18279.36,
+      "rec_previsto": 0.0,
+      "rec_total": 18279.36,
+      "adr": 207.72
+    },
+    {
+      "data": "2025-09-18",
+      "dow": "Qui",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 17993.34,
+      "rec_previsto": 0.0,
+      "rec_total": 17993.34,
+      "adr": 214.21
+    },
+    {
+      "data": "2025-09-19",
+      "dow": "Sex",
+      "occ_pct": 68.85,
+      "ocupadas": 84,
+      "rec_efetivo": 21006.49,
+      "rec_previsto": 0.0,
+      "rec_total": 21006.49,
+      "adr": 250.08
+    },
+    {
+      "data": "2025-09-20",
+      "dow": "Sab",
+      "occ_pct": 84.43,
+      "ocupadas": 103,
+      "rec_efetivo": 29336.22,
+      "rec_previsto": 0.0,
+      "rec_total": 29336.22,
+      "adr": 284.82
+    },
+    {
+      "data": "2025-09-21",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 6396.0,
+      "rec_previsto": 0.0,
+      "rec_total": 6396.0,
+      "adr": 246.0
+    },
+    {
+      "data": "2025-09-22",
+      "dow": "Seg",
+      "occ_pct": 54.92,
+      "ocupadas": 67,
+      "rec_efetivo": 14254.72,
+      "rec_previsto": 0.0,
+      "rec_total": 14254.72,
+      "adr": 212.76
+    },
+    {
+      "data": "2025-09-23",
+      "dow": "Ter",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 18282.76,
+      "rec_previsto": 0.0,
+      "rec_total": 18282.76,
+      "adr": 210.15
+    },
+    {
+      "data": "2025-09-24",
+      "dow": "Qua",
+      "occ_pct": 73.77,
+      "ocupadas": 90,
+      "rec_efetivo": 19357.68,
+      "rec_previsto": 0.0,
+      "rec_total": 19357.68,
+      "adr": 215.09
+    },
+    {
+      "data": "2025-09-25",
+      "dow": "Qui",
+      "occ_pct": 62.3,
+      "ocupadas": 76,
+      "rec_efetivo": 15254.38,
+      "rec_previsto": 0.0,
+      "rec_total": 15254.38,
+      "adr": 200.72
+    },
+    {
+      "data": "2025-09-26",
+      "dow": "Sex",
+      "occ_pct": 47.54,
+      "ocupadas": 58,
+      "rec_efetivo": 15582.31,
+      "rec_previsto": 0.0,
+      "rec_total": 15582.31,
+      "adr": 268.66
+    },
+    {
+      "data": "2025-09-27",
+      "dow": "Sab",
+      "occ_pct": 56.56,
+      "ocupadas": 69,
+      "rec_efetivo": 17585.98,
+      "rec_previsto": 0.0,
+      "rec_total": 17585.98,
+      "adr": 254.87
+    },
+    {
+      "data": "2025-09-28",
+      "dow": "Dom",
+      "occ_pct": 27.05,
+      "ocupadas": 33,
+      "rec_efetivo": 8571.84,
+      "rec_previsto": 0.0,
+      "rec_total": 8571.84,
+      "adr": 259.75
+    },
+    {
+      "data": "2025-09-29",
+      "dow": "Seg",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 13161.88,
+      "rec_previsto": 0.0,
+      "rec_total": 13161.88,
+      "adr": 230.91
+    },
+    {
+      "data": "2025-09-30",
+      "dow": "Ter",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 11799.44,
+      "rec_previsto": 0.0,
+      "rec_total": 11799.44,
+      "adr": 207.01
+    },
+    {
+      "data": "2025-10-01",
+      "dow": "Qua",
+      "occ_pct": 50.82,
+      "ocupadas": 62,
+      "rec_efetivo": 13330.83,
+      "rec_previsto": 0.0,
+      "rec_total": 13330.83,
+      "adr": 215.01
+    },
+    {
+      "data": "2025-10-02",
+      "dow": "Qui",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 12888.09,
+      "rec_previsto": 0.0,
+      "rec_total": 12888.09,
+      "adr": 214.8
+    },
+    {
+      "data": "2025-10-03",
+      "dow": "Sex",
+      "occ_pct": 46.72,
+      "ocupadas": 57,
+      "rec_efetivo": 14607.68,
+      "rec_previsto": 0.0,
+      "rec_total": 14607.68,
+      "adr": 256.28
+    },
+    {
+      "data": "2025-10-04",
+      "dow": "Sab",
+      "occ_pct": 69.67,
+      "ocupadas": 85,
+      "rec_efetivo": 23120.44,
+      "rec_previsto": 0.0,
+      "rec_total": 23120.44,
+      "adr": 272.01
+    },
+    {
+      "data": "2025-10-05",
+      "dow": "Dom",
+      "occ_pct": 19.67,
+      "ocupadas": 24,
+      "rec_efetivo": 6075.96,
+      "rec_previsto": 0.0,
+      "rec_total": 6075.96,
+      "adr": 253.17
+    },
+    {
+      "data": "2025-10-06",
+      "dow": "Seg",
+      "occ_pct": 33.61,
+      "ocupadas": 41,
+      "rec_efetivo": 8326.21,
+      "rec_previsto": 0.0,
+      "rec_total": 8326.21,
+      "adr": 203.08
+    },
+    {
+      "data": "2025-10-07",
+      "dow": "Ter",
+      "occ_pct": 43.44,
+      "ocupadas": 53,
+      "rec_efetivo": 10874.81,
+      "rec_previsto": 0.0,
+      "rec_total": 10874.81,
+      "adr": 205.19
+    },
+    {
+      "data": "2025-10-08",
+      "dow": "Qua",
+      "occ_pct": 58.2,
+      "ocupadas": 71,
+      "rec_efetivo": 14633.22,
+      "rec_previsto": 0.0,
+      "rec_total": 14633.22,
+      "adr": 206.1
+    },
+    {
+      "data": "2025-10-09",
+      "dow": "Qui",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 16225.8,
+      "rec_previsto": 0.0,
+      "rec_total": 16225.8,
+      "adr": 219.27
+    },
+    {
+      "data": "2025-10-10",
+      "dow": "Sex",
+      "occ_pct": 31.97,
+      "ocupadas": 39,
+      "rec_efetivo": 10145.13,
+      "rec_previsto": 0.0,
+      "rec_total": 10145.13,
+      "adr": 260.13
+    },
+    {
+      "data": "2025-10-11",
+      "dow": "Sab",
+      "occ_pct": 33.61,
+      "ocupadas": 41,
+      "rec_efetivo": 10927.44,
+      "rec_previsto": 0.0,
+      "rec_total": 10927.44,
+      "adr": 266.52
+    },
+    {
+      "data": "2025-10-12",
+      "dow": "Dom",
+      "occ_pct": 9.84,
+      "ocupadas": 12,
+      "rec_efetivo": 3425.19,
+      "rec_previsto": 0.0,
+      "rec_total": 3425.19,
+      "adr": 285.43
+    },
+    {
+      "data": "2025-10-13",
+      "dow": "Seg",
+      "occ_pct": 39.34,
+      "ocupadas": 48,
+      "rec_efetivo": 10043.92,
+      "rec_previsto": 0.0,
+      "rec_total": 10043.92,
+      "adr": 209.25
+    },
+    {
+      "data": "2025-10-14",
+      "dow": "Ter",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 16439.17,
+      "rec_previsto": 0.0,
+      "rec_total": 16439.17,
+      "adr": 219.19
+    },
+    {
+      "data": "2025-10-15",
+      "dow": "Qua",
+      "occ_pct": 59.02,
+      "ocupadas": 72,
+      "rec_efetivo": 15636.64,
+      "rec_previsto": 0.0,
+      "rec_total": 15636.64,
+      "adr": 217.18
+    },
+    {
+      "data": "2025-10-16",
+      "dow": "Qui",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 10994.73,
+      "rec_previsto": 0.0,
+      "rec_total": 10994.73,
+      "adr": 219.89
+    },
+    {
+      "data": "2025-10-17",
+      "dow": "Sex",
+      "occ_pct": 40.16,
+      "ocupadas": 49,
+      "rec_efetivo": 12387.41,
+      "rec_previsto": 0.0,
+      "rec_total": 12387.41,
+      "adr": 252.8
+    },
+    {
+      "data": "2025-10-18",
+      "dow": "Sab",
+      "occ_pct": 68.03,
+      "ocupadas": 83,
+      "rec_efetivo": 24087.25,
+      "rec_previsto": 0.0,
+      "rec_total": 24087.25,
+      "adr": 290.21
+    },
+    {
+      "data": "2025-10-19",
+      "dow": "Dom",
+      "occ_pct": 19.67,
+      "ocupadas": 24,
+      "rec_efetivo": 6032.33,
+      "rec_previsto": 0.0,
+      "rec_total": 6032.33,
+      "adr": 251.35
+    },
+    {
+      "data": "2025-10-20",
+      "dow": "Seg",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 10637.45,
+      "rec_previsto": 0.0,
+      "rec_total": 10637.45,
+      "adr": 212.75
+    },
+    {
+      "data": "2025-10-21",
+      "dow": "Ter",
+      "occ_pct": 58.2,
+      "ocupadas": 71,
+      "rec_efetivo": 15373.26,
+      "rec_previsto": 0.0,
+      "rec_total": 15373.26,
+      "adr": 216.52
+    },
+    {
+      "data": "2025-10-22",
+      "dow": "Qua",
+      "occ_pct": 63.93,
+      "ocupadas": 78,
+      "rec_efetivo": 16649.02,
+      "rec_previsto": 0.0,
+      "rec_total": 16649.02,
+      "adr": 213.45
+    },
+    {
+      "data": "2025-10-23",
+      "dow": "Qui",
+      "occ_pct": 59.02,
+      "ocupadas": 72,
+      "rec_efetivo": 16481.7,
+      "rec_previsto": 0.0,
+      "rec_total": 16481.7,
+      "adr": 228.91
+    },
+    {
+      "data": "2025-10-24",
+      "dow": "Sex",
+      "occ_pct": 56.56,
+      "ocupadas": 69,
+      "rec_efetivo": 17801.42,
+      "rec_previsto": 0.0,
+      "rec_total": 17801.42,
+      "adr": 257.99
+    },
+    {
+      "data": "2025-10-25",
+      "dow": "Sab",
+      "occ_pct": 70.49,
+      "ocupadas": 86,
+      "rec_efetivo": 23737.53,
+      "rec_previsto": 0.0,
+      "rec_total": 23737.53,
+      "adr": 276.02
+    },
+    {
+      "data": "2025-10-26",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 7429.04,
+      "rec_previsto": 0.0,
+      "rec_total": 7429.04,
+      "adr": 285.73
+    },
+    {
+      "data": "2025-10-27",
+      "dow": "Seg",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 11070.93,
+      "rec_previsto": 0.0,
+      "rec_total": 11070.93,
+      "adr": 221.42
+    },
+    {
+      "data": "2025-10-28",
+      "dow": "Ter",
+      "occ_pct": 74.59,
+      "ocupadas": 91,
+      "rec_efetivo": 20080.44,
+      "rec_previsto": 0.0,
+      "rec_total": 20080.44,
+      "adr": 220.66
+    },
+    {
+      "data": "2025-10-29",
+      "dow": "Qua",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 13935.75,
+      "rec_previsto": 0.0,
+      "rec_total": 13935.75,
+      "adr": 217.75
+    },
+    {
+      "data": "2025-10-30",
+      "dow": "Qui",
+      "occ_pct": 41.8,
+      "ocupadas": 51,
+      "rec_efetivo": 11601.34,
+      "rec_previsto": 0.0,
+      "rec_total": 11601.34,
+      "adr": 227.48
+    },
+    {
+      "data": "2025-10-31",
+      "dow": "Sex",
+      "occ_pct": 30.33,
+      "ocupadas": 37,
+      "rec_efetivo": 9489.01,
+      "rec_previsto": 0.0,
+      "rec_total": 9489.01,
+      "adr": 256.46
+    },
+    {
+      "data": "2025-11-01",
+      "dow": "Sab",
+      "occ_pct": 35.25,
+      "ocupadas": 43,
+      "rec_efetivo": 11526.65,
+      "rec_previsto": 0.0,
+      "rec_total": 11526.65,
+      "adr": 268.06
+    },
+    {
+      "data": "2025-11-02",
+      "dow": "Dom",
+      "occ_pct": 13.93,
+      "ocupadas": 17,
+      "rec_efetivo": 4007.76,
+      "rec_previsto": 0.0,
+      "rec_total": 4007.76,
+      "adr": 235.75
+    },
+    {
+      "data": "2025-11-03",
+      "dow": "Seg",
+      "occ_pct": 45.08,
+      "ocupadas": 55,
+      "rec_efetivo": 11914.71,
+      "rec_previsto": 0.0,
+      "rec_total": 11914.71,
+      "adr": 216.63
+    },
+    {
+      "data": "2025-11-04",
+      "dow": "Ter",
+      "occ_pct": 67.21,
+      "ocupadas": 82,
+      "rec_efetivo": 17917.22,
+      "rec_previsto": 0.0,
+      "rec_total": 17917.22,
+      "adr": 218.5
+    },
+    {
+      "data": "2025-11-05",
+      "dow": "Qua",
+      "occ_pct": 77.05,
+      "ocupadas": 94,
+      "rec_efetivo": 21060.91,
+      "rec_previsto": 0.0,
+      "rec_total": 21060.91,
+      "adr": 224.05
+    },
+    {
+      "data": "2025-11-06",
+      "dow": "Qui",
+      "occ_pct": 61.48,
+      "ocupadas": 75,
+      "rec_efetivo": 16452.81,
+      "rec_previsto": 0.0,
+      "rec_total": 16452.81,
+      "adr": 219.37
+    },
+    {
+      "data": "2025-11-07",
+      "dow": "Sex",
+      "occ_pct": 41.8,
+      "ocupadas": 51,
+      "rec_efetivo": 14098.8,
+      "rec_previsto": 0.0,
+      "rec_total": 14098.8,
+      "adr": 276.45
+    },
+    {
+      "data": "2025-11-08",
+      "dow": "Sab",
+      "occ_pct": 87.7,
+      "ocupadas": 107,
+      "rec_efetivo": 33236.82,
+      "rec_previsto": 0.0,
+      "rec_total": 33236.82,
+      "adr": 310.62
+    },
+    {
+      "data": "2025-11-09",
+      "dow": "Dom",
+      "occ_pct": 14.75,
+      "ocupadas": 18,
+      "rec_efetivo": 4211.8,
+      "rec_previsto": 0.0,
+      "rec_total": 4211.8,
+      "adr": 233.99
+    },
+    {
+      "data": "2025-11-10",
+      "dow": "Seg",
+      "occ_pct": 42.62,
+      "ocupadas": 52,
+      "rec_efetivo": 11160.04,
+      "rec_previsto": 0.0,
+      "rec_total": 11160.04,
+      "adr": 214.62
+    },
+    {
+      "data": "2025-11-11",
+      "dow": "Ter",
+      "occ_pct": 78.69,
+      "ocupadas": 96,
+      "rec_efetivo": 20405.65,
+      "rec_previsto": 0.0,
+      "rec_total": 20405.65,
+      "adr": 212.56
+    },
+    {
+      "data": "2025-11-12",
+      "dow": "Qua",
+      "occ_pct": 75.41,
+      "ocupadas": 92,
+      "rec_efetivo": 20199.2,
+      "rec_previsto": 0.0,
+      "rec_total": 20199.2,
+      "adr": 219.56
+    },
+    {
+      "data": "2025-11-13",
+      "dow": "Qui",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 19633.61,
+      "rec_previsto": 0.0,
+      "rec_total": 19633.61,
+      "adr": 225.67
+    },
+    {
+      "data": "2025-11-14",
+      "dow": "Sex",
+      "occ_pct": 48.36,
+      "ocupadas": 59,
+      "rec_efetivo": 14222.82,
+      "rec_previsto": 0.0,
+      "rec_total": 14222.82,
+      "adr": 241.06
+    },
+    {
+      "data": "2025-11-15",
+      "dow": "Sab",
+      "occ_pct": 71.31,
+      "ocupadas": 87,
+      "rec_efetivo": 23897.96,
+      "rec_previsto": 0.0,
+      "rec_total": 23897.96,
+      "adr": 274.69
+    },
+    {
+      "data": "2025-11-16",
+      "dow": "Dom",
+      "occ_pct": 23.77,
+      "ocupadas": 29,
+      "rec_efetivo": 9800.17,
+      "rec_previsto": 0.0,
+      "rec_total": 9800.17,
+      "adr": 337.94
+    },
+    {
+      "data": "2025-11-17",
+      "dow": "Seg",
+      "occ_pct": 58.2,
+      "ocupadas": 71,
+      "rec_efetivo": 15891.81,
+      "rec_previsto": 0.0,
+      "rec_total": 15891.81,
+      "adr": 223.83
+    },
+    {
+      "data": "2025-11-18",
+      "dow": "Ter",
+      "occ_pct": 64.75,
+      "ocupadas": 79,
+      "rec_efetivo": 16289.93,
+      "rec_previsto": 0.0,
+      "rec_total": 16289.93,
+      "adr": 206.2
+    },
+    {
+      "data": "2025-11-19",
+      "dow": "Qua",
+      "occ_pct": 30.33,
+      "ocupadas": 37,
+      "rec_efetivo": 8554.2,
+      "rec_previsto": 0.0,
+      "rec_total": 8554.2,
+      "adr": 231.19
+    },
+    {
+      "data": "2025-11-20",
+      "dow": "Qui",
+      "occ_pct": 36.89,
+      "ocupadas": 45,
+      "rec_efetivo": 8877.41,
+      "rec_previsto": 0.0,
+      "rec_total": 8877.41,
+      "adr": 197.28
+    },
+    {
+      "data": "2025-11-21",
+      "dow": "Sex",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 17578.4,
+      "rec_previsto": 0.0,
+      "rec_total": 17578.4,
+      "adr": 274.66
+    },
+    {
+      "data": "2025-11-22",
+      "dow": "Sab",
+      "occ_pct": 70.49,
+      "ocupadas": 86,
+      "rec_efetivo": 24682.52,
+      "rec_previsto": 0.0,
+      "rec_total": 24682.52,
+      "adr": 287.01
+    },
+    {
+      "data": "2025-11-23",
+      "dow": "Dom",
+      "occ_pct": 13.93,
+      "ocupadas": 17,
+      "rec_efetivo": 5422.4,
+      "rec_previsto": 0.0,
+      "rec_total": 5422.4,
+      "adr": 318.96
+    },
+    {
+      "data": "2025-11-24",
+      "dow": "Seg",
+      "occ_pct": 40.16,
+      "ocupadas": 49,
+      "rec_efetivo": 10976.5,
+      "rec_previsto": 0.0,
+      "rec_total": 10976.5,
+      "adr": 224.01
+    },
+    {
+      "data": "2025-11-25",
+      "dow": "Ter",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 14831.72,
+      "rec_previsto": 0.0,
+      "rec_total": 14831.72,
+      "adr": 224.72
+    },
+    {
+      "data": "2025-11-26",
+      "dow": "Qua",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 15641.18,
+      "rec_previsto": 0.0,
+      "rec_total": 15641.18,
+      "adr": 211.37
+    },
+    {
+      "data": "2025-11-27",
+      "dow": "Qui",
+      "occ_pct": 48.36,
+      "ocupadas": 59,
+      "rec_efetivo": 13725.68,
+      "rec_previsto": 0.0,
+      "rec_total": 13725.68,
+      "adr": 232.64
+    },
+    {
+      "data": "2025-11-28",
+      "dow": "Sex",
+      "occ_pct": 53.28,
+      "ocupadas": 65,
+      "rec_efetivo": 16550.49,
+      "rec_previsto": 0.0,
+      "rec_total": 16550.49,
+      "adr": 254.62
+    },
+    {
+      "data": "2025-11-29",
+      "dow": "Sab",
+      "occ_pct": 62.3,
+      "ocupadas": 76,
+      "rec_efetivo": 20563.45,
+      "rec_previsto": 0.0,
+      "rec_total": 20563.45,
+      "adr": 270.57
+    },
+    {
+      "data": "2025-11-30",
+      "dow": "Dom",
+      "occ_pct": 18.85,
+      "ocupadas": 23,
+      "rec_efetivo": 5945.2,
+      "rec_previsto": 0.0,
+      "rec_total": 5945.2,
+      "adr": 258.49
+    },
+    {
+      "data": "2025-12-01",
+      "dow": "Seg",
+      "occ_pct": 36.07,
+      "ocupadas": 44,
+      "rec_efetivo": 9620.76,
+      "rec_previsto": 0.0,
+      "rec_total": 9620.76,
+      "adr": 218.65
+    },
+    {
+      "data": "2025-12-02",
+      "dow": "Ter",
+      "occ_pct": 55.74,
+      "ocupadas": 68,
+      "rec_efetivo": 14488.42,
+      "rec_previsto": 0.0,
+      "rec_total": 14488.42,
+      "adr": 213.07
+    },
+    {
+      "data": "2025-12-03",
+      "dow": "Qua",
+      "occ_pct": 63.93,
+      "ocupadas": 78,
+      "rec_efetivo": 16448.25,
+      "rec_previsto": 0.0,
+      "rec_total": 16448.25,
+      "adr": 210.88
+    },
+    {
+      "data": "2025-12-04",
+      "dow": "Qui",
+      "occ_pct": 52.46,
+      "ocupadas": 64,
+      "rec_efetivo": 13956.93,
+      "rec_previsto": 0.0,
+      "rec_total": 13956.93,
+      "adr": 218.08
+    },
+    {
+      "data": "2025-12-05",
+      "dow": "Sex",
+      "occ_pct": 79.51,
+      "ocupadas": 97,
+      "rec_efetivo": 67634.32,
+      "rec_previsto": 0.0,
+      "rec_total": 67634.32,
+      "adr": 697.26
+    },
+    {
+      "data": "2025-12-06",
+      "dow": "Sab",
+      "occ_pct": 97.54,
+      "ocupadas": 119,
+      "rec_efetivo": 87263.88,
+      "rec_previsto": 0.0,
+      "rec_total": 87263.88,
+      "adr": 733.31
+    },
+    {
+      "data": "2025-12-07",
+      "dow": "Dom",
+      "occ_pct": 56.56,
+      "ocupadas": 69,
+      "rec_efetivo": 23968.68,
+      "rec_previsto": 0.0,
+      "rec_total": 23968.68,
+      "adr": 347.37
+    },
+    {
+      "data": "2025-12-08",
+      "dow": "Seg",
+      "occ_pct": 40.98,
+      "ocupadas": 50,
+      "rec_efetivo": 10147.44,
+      "rec_previsto": 0.0,
+      "rec_total": 10147.44,
+      "adr": 202.95
+    },
+    {
+      "data": "2025-12-09",
+      "dow": "Ter",
+      "occ_pct": 69.67,
+      "ocupadas": 85,
+      "rec_efetivo": 17762.87,
+      "rec_previsto": 0.0,
+      "rec_total": 17762.87,
+      "adr": 208.97
+    },
+    {
+      "data": "2025-12-10",
+      "dow": "Qua",
+      "occ_pct": 77.87,
+      "ocupadas": 95,
+      "rec_efetivo": 21544.12,
+      "rec_previsto": 0.0,
+      "rec_total": 21544.12,
+      "adr": 226.78
+    },
+    {
+      "data": "2025-12-11",
+      "dow": "Qui",
+      "occ_pct": 63.93,
+      "ocupadas": 78,
+      "rec_efetivo": 16769.25,
+      "rec_previsto": 0.0,
+      "rec_total": 16769.25,
+      "adr": 214.99
+    },
+    {
+      "data": "2025-12-12",
+      "dow": "Sex",
+      "occ_pct": 45.9,
+      "ocupadas": 56,
+      "rec_efetivo": 13928.97,
+      "rec_previsto": 0.0,
+      "rec_total": 13928.97,
+      "adr": 248.73
+    },
+    {
+      "data": "2025-12-13",
+      "dow": "Sab",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 17791.77,
+      "rec_previsto": 0.0,
+      "rec_total": 17791.77,
+      "adr": 269.57
+    },
+    {
+      "data": "2025-12-14",
+      "dow": "Dom",
+      "occ_pct": 21.31,
+      "ocupadas": 26,
+      "rec_efetivo": 6287.83,
+      "rec_previsto": 0.0,
+      "rec_total": 6287.83,
+      "adr": 241.84
+    },
+    {
+      "data": "2025-12-15",
+      "dow": "Seg",
+      "occ_pct": 49.18,
+      "ocupadas": 60,
+      "rec_efetivo": 12781.74,
+      "rec_previsto": 0.0,
+      "rec_total": 12781.74,
+      "adr": 213.03
+    },
+    {
+      "data": "2025-12-16",
+      "dow": "Ter",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 14899.37,
+      "rec_previsto": 0.0,
+      "rec_total": 14899.37,
+      "adr": 212.85
+    },
+    {
+      "data": "2025-12-17",
+      "dow": "Qua",
+      "occ_pct": 62.3,
+      "ocupadas": 76,
+      "rec_efetivo": 15471.0,
+      "rec_previsto": 0.0,
+      "rec_total": 15471.0,
+      "adr": 203.57
+    },
+    {
+      "data": "2025-12-18",
+      "dow": "Qui",
+      "occ_pct": 57.38,
+      "ocupadas": 70,
+      "rec_efetivo": 14842.96,
+      "rec_previsto": 0.0,
+      "rec_total": 14842.96,
+      "adr": 212.04
+    },
+    {
+      "data": "2025-12-19",
+      "dow": "Sex",
+      "occ_pct": 34.43,
+      "ocupadas": 42,
+      "rec_efetivo": 10775.04,
+      "rec_previsto": 0.0,
+      "rec_total": 10775.04,
+      "adr": 256.55
+    },
+    {
+      "data": "2025-12-20",
+      "dow": "Sab",
+      "occ_pct": 54.1,
+      "ocupadas": 66,
+      "rec_efetivo": 18023.01,
+      "rec_previsto": 0.0,
+      "rec_total": 18023.01,
+      "adr": 273.08
+    },
+    {
+      "data": "2025-12-21",
+      "dow": "Dom",
+      "occ_pct": 28.69,
+      "ocupadas": 35,
+      "rec_efetivo": 9157.4,
+      "rec_previsto": 0.0,
+      "rec_total": 9157.4,
+      "adr": 261.64
+    },
+    {
+      "data": "2025-12-22",
+      "dow": "Seg",
+      "occ_pct": 26.23,
+      "ocupadas": 32,
+      "rec_efetivo": 7907.88,
+      "rec_previsto": 0.0,
+      "rec_total": 7907.88,
+      "adr": 247.12
+    },
+    {
+      "data": "2025-12-23",
+      "dow": "Ter",
+      "occ_pct": 30.33,
+      "ocupadas": 37,
+      "rec_efetivo": 9641.68,
+      "rec_previsto": 0.0,
+      "rec_total": 9641.68,
+      "adr": 260.59
+    },
+    {
+      "data": "2025-12-24",
+      "dow": "Qua",
+      "occ_pct": 38.52,
+      "ocupadas": 47,
+      "rec_efetivo": 15175.24,
+      "rec_previsto": 0.0,
+      "rec_total": 15175.24,
+      "adr": 322.88
+    },
+    {
+      "data": "2025-12-25",
+      "dow": "Qui",
+      "occ_pct": 24.59,
+      "ocupadas": 30,
+      "rec_efetivo": 9323.22,
+      "rec_previsto": 0.0,
+      "rec_total": 9323.22,
+      "adr": 310.77
+    },
+    {
+      "data": "2025-12-26",
+      "dow": "Sex",
+      "occ_pct": 30.33,
+      "ocupadas": 37,
+      "rec_efetivo": 10488.45,
+      "rec_previsto": 0.0,
+      "rec_total": 10488.45,
+      "adr": 283.47
+    },
+    {
+      "data": "2025-12-27",
+      "dow": "Sab",
+      "occ_pct": 45.08,
+      "ocupadas": 55,
+      "rec_efetivo": 15125.71,
+      "rec_previsto": 0.0,
+      "rec_total": 15125.71,
+      "adr": 275.01
+    },
+    {
+      "data": "2025-12-28",
+      "dow": "Dom",
+      "occ_pct": 27.87,
+      "ocupadas": 34,
+      "rec_efetivo": 9167.96,
+      "rec_previsto": 0.0,
+      "rec_total": 9167.96,
+      "adr": 269.65
+    },
+    {
+      "data": "2025-12-29",
+      "dow": "Seg",
+      "occ_pct": 31.97,
+      "ocupadas": 39,
+      "rec_efetivo": 9941.11,
+      "rec_previsto": 0.0,
+      "rec_total": 9941.11,
+      "adr": 254.9
+    },
+    {
+      "data": "2025-12-30",
+      "dow": "Ter",
+      "occ_pct": 33.61,
+      "ocupadas": 41,
+      "rec_efetivo": 10265.04,
+      "rec_previsto": 0.0,
+      "rec_total": 10265.04,
+      "adr": 250.37
+    },
+    {
+      "data": "2025-12-31",
+      "dow": "Qua",
+      "occ_pct": 60.66,
+      "ocupadas": 74,
+      "rec_efetivo": 20824.26,
+      "rec_previsto": 0.0,
+      "rec_total": 20824.26,
+      "adr": 281.41
+    }
+  ],
+  "totalizacao": {
+    "occ_pct": 51.2,
+    "ocupadas": 22799,
+    "rec_efetivo": 5556576.66,
+    "rec_previsto": 0.0,
+    "rec_total": 5556576.66,
+    "adr": 243.72
+  },
+  "validacao": {
+    "ok": true,
+    "detalhe": "Soma diária (5556576.66) vs TOTALIZAÇÃO (5556576.66) | diff=0.00"
+  }
+}
