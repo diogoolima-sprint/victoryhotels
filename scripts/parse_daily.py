@@ -55,7 +55,23 @@ def to_float(v):
         return 0.0
 
 
-def parse_report(path, room_count):
+def _summary_from_days(days, room_count, n_dias):
+    """Subtotal calculado a partir das linhas de dia (usado no layout sem marcadores)."""
+    ocup = sum(d["ocupadas"] for d in days)
+    ef = round(sum(d["rec_efetivo"] for d in days), 2)
+    prev = round(sum(d["rec_previsto"] for d in days), 2)
+    tot = round(sum(d["rec_total"] for d in days), 2)
+    return {
+        "occ_pct": round(ocup / (room_count * n_dias) * 100, 2) if n_dias else 0.0,
+        "ocupadas": ocup,
+        "rec_efetivo": ef,
+        "rec_previsto": prev,
+        "rec_total": tot,
+        "adr": round(tot / ocup, 2) if ocup else 0.0,
+    }
+
+
+def parse_report(path, room_count, hoje=None):
     wb = xlrd.open_workbook(path)
     sh = wb.sheet_by_index(0)
 
@@ -104,6 +120,30 @@ def parse_report(path, room_count):
             else:
                 dias_previsao.append(day)
 
+    # Layout sem marcadores "Efetivo"/"Previsão" (ex.: relatório emitido no último dia do mês,
+    # onde só existe a linha TOTALIZAÇÃO). Com --hoje, o dia de hoje e os seguintes contam como
+    # previsão (relatório emitido de manhã, o dia ainda vai crescer); os anteriores como efetivo.
+    if not dias_efetivo and not dias_previsao and hoje:
+        todos = []
+        for r in range(sh.nrows):
+            c0 = sh.cell_value(r, COL_DATA)
+            if isinstance(c0, float):
+                todos.append((r, c0))
+        for r, c0 in todos:
+            day = {
+                "data": excel_serial_to_iso(c0),
+                "dow": sh.cell_value(r, 1),
+                "occ_pct": round(to_float(sh.cell_value(r, COL_PCT_OCC)), 2),
+                "ocupadas": int(to_float(sh.cell_value(r, COL_OCUPADAS))),
+                "rec_efetivo": round(to_float(sh.cell_value(r, COL_REC_EF)), 2),
+                "rec_previsto": round(to_float(sh.cell_value(r, COL_REC_PREV)), 2),
+                "rec_total": round(to_float(sh.cell_value(r, COL_TOT_REC)), 2),
+                "adr": round(to_float(sh.cell_value(r, COL_ADR)), 2),
+            }
+            (dias_previsao if day["data"] >= hoje else dias_efetivo).append(day)
+        subtotal_efetivo = _summary_from_days(dias_efetivo, room_count, len(dias_efetivo))
+        subtotal_previsao = _summary_from_days(dias_previsao, room_count, len(dias_previsao))
+
     # validação cruzada: subtotal_efetivo + subtotal_previsao deve bater com totalizacao
     validacao = {"ok": None, "detalhe": None}
     if subtotal_efetivo and subtotal_previsao and totalizacao:
@@ -144,12 +184,15 @@ def main():
     ap.add_argument("vb_path")
     ap.add_argument("vs_path")
     ap.add_argument("--out", default="daily_data.json")
+    ap.add_argument("--hoje", default=None,
+                    help="YYYY-MM-DD; só para relatórios sem marcadores Efetivo/Previsão: "
+                         "dias >= hoje contam como previsão")
     args = ap.parse_args()
 
     result = {
         "gerado_em": datetime.now().isoformat(timespec="seconds"),
-        "VB": parse_report(args.vb_path, room_count=152),
-        "VS": parse_report(args.vs_path, room_count=122),
+        "VB": parse_report(args.vb_path, room_count=152, hoje=args.hoje),
+        "VS": parse_report(args.vs_path, room_count=122, hoje=args.hoje),
     }
 
     with open(args.out, "w", encoding="utf-8") as f:
